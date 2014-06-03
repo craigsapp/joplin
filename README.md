@@ -1,24 +1,28 @@
-Music of Scott Joplin encoded in the Humdrum file format
-========================================================
+Digital edition of Scott Joplin Rags
+====================================
 
 This repository is a digital edition of piano rags by Scott Joplin in
 the Humdrum file format.  Tools for processing the encodings in this
 format on the command-line can be found online at
 https://github.com/humdrum-tools
 
-The encodings are located in the 'kern' directory, and a Makefile is
-provided for example conversions and processing of the data with
-[humdrum-tools](https://github.com/humdrum-tools/humdrum-tools).
-
+The encodings are located in the 'kern' directory.
+Scans of the source edition can be downloaded from 
+[kernScores](http://kern.humdrum.org) with this command:
+```bash
+   make reference
+```
 
 Data processing tools and other resources
 =========================================
 
 These digital scores may also be found on the kernScores website:
 *    http://kernscores.stanford.edu/browse?l=joplin
+
 with mirrors at:
 *    http://kern.humdrum.org/browse?l=joplin
 *    http://kern.ccarh.org/browse?l=joplin
+
 which includes dynamic conversions to other data formats.  
 
 The [Humdrum Extras](http://extras.humdrum.org) command-line programs 
@@ -62,7 +66,6 @@ In OS X Mavericks or later, install the Xcode command-line tools:
 
 In Cygwin on MS Windows, re-run the cygwin install program and make sure
 that the development tools are included in the installation packages.
-
 
 
 
