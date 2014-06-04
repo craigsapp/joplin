@@ -13,6 +13,10 @@ Scans of the source edition can be downloaded from
    make reference
 ```
 
+These digital scores can also be found as a submodule in the 
+[humdrum-data](https://github.com/humdrum-tools/humdrum-data) repository.
+
+
 Data processing tools and other resources
 =========================================
 
