@@ -231,7 +231,7 @@
 4e c B-	8ccc	.
 .	8ccJ	.
 =39	=39	=39
-4F FF	(8ffL	.
+4F FF	8ffL	.
 .	8f	.
 4e- c A F	8g	.
 .	8g#	.
@@ -243,7 +243,7 @@
 4e- c A	8cc#	.
 .	8dd	.
 4e- c A	8ee-	.
-.	8eenJ)	.
+.	8eenJ	.
 =41	=41	=41
 4BB-	8fffL ddd bb- ff	.
 .	8fff ddd bb- ff	.
@@ -409,9 +409,9 @@
 *>C1	*>C1	*>C1
 4G GG	4.g	.
 4d B- G	.	.
-.	(8gL	.
+.	8gL	.
 4d B- G	8b-	.
-.	8ddJ)	.
+.	8ddJ	.
 =73	=73	=73
 4G GG	2gg g	.
 4d B- G	.	.
@@ -420,9 +420,9 @@
 *>C2	*>C2	*>C2
 4G GG	4.g	.
 4d B- G	.	.
-.	(8gL	.
+.	8gL	.
 4d B- G	8b-	.
-.	8ddJ)	.
+.	8ddJ	.
 =75	=75	=75
 2d B- G	2gg g	.
 4r	4r	.
@@ -541,9 +541,9 @@
 4d B-	4bb- gg dd	.
 =103	=103	=103
 *	*^	*
-2.c# B- G En	(4bb-	2.cc#	.
+2.c# B- G En	4bb-	2.cc#	.
 .	4aa	.	.
-.	4gg)	.	.
+.	4gg	.	.
 *	*v	*v	*
 =104	=104	=104
 4F FF	4ff f	.
@@ -592,8 +592,8 @@
 4B G D	.	.
 4B G D	.	.
 =114	=114	=114
-4FF#	(8dL	.
-.	8eJ)	.
+4FF#	8dL	.
+.	8eJ	.
 4c A F# D	4.f#	.
 4c A F# D	.	.
 .	8g	.
@@ -602,8 +602,8 @@
 4c A F# D	.	.
 4c A F# D	.	.
 =116	=116	=116
-4GG	(8gL	.
-.	8aJ)	.
+4GG	8gL	.
+.	8aJ	.
 4B G D	4.b	.
 4B G D	.	.
 .	8cc	.
@@ -628,8 +628,8 @@
 4B G D	.	.
 4B G D	.	.
 =122	=122	=122
-4C#	(8eeL	.
-.	8ff#J)	.
+4C#	8eeL	.
+.	8ff#J	.
 4A# G E	2gg	.
 4A# G E	.	.
 =123	=123	=123
@@ -655,7 +655,7 @@
 =127!|:	=127!|:	=127!|:
 *k[]	*k[]	*k[]
 *>F	*>F	*>F
-4BB	(8ggL	.
+4BB	8ggL	.
 .	8ff	.
 4f B G	8ee	.
 .	8dd	.
@@ -667,10 +667,10 @@
 4f B G	8a	.
 .	8b	.
 4f B G	8cc	.
-.	8ddJ)	.
+.	8ddJ	.
 =129	=129	=129
-4C	(8eeL	.
-.	8ffJ)	.
+4C	8eeL	.
+.	8ffJ	.
 4e c G	4.gg	.
 4e c G	.	.
 .	8ee	.
@@ -689,8 +689,8 @@
 4f B G	.	.
 4f B G	.	.
 =133	=133	=133
-4C	(8ccL	.
-.	8eeJ)	.
+4C	8ccL	.
+.	8eeJ	.
 4e c G	4.gg	.
 4e c G	.	.
 .	8ee	.
@@ -699,7 +699,7 @@
 4e c G	.	.
 4e c G	4gg	.
 =135	=135	=135
-4BB	(8ggL	.
+4BB	8ggL	.
 .	8ff	.
 4f B G	8ee	.
 .	8dd	.
@@ -711,10 +711,10 @@
 4f B G	8a	.
 .	8b	.
 4f B G	8cc	.
-.	8ddJ)	.
+.	8ddJ	.
 =137	=137	=137
-4C	(8eeL	.
-.	8ffJ)	.
+4C	8eeL	.
+.	8ffJ	.
 4e c G	4.gg	.
 4e c G	.	.
 .	8ee	.
@@ -723,8 +723,8 @@
 4e c G	.	.
 4e c G	.	.
 =139	=139	=139
-4F	(8ddL	.
-.	8ffJ)	.
+4F	8ddL	.
+.	8ffJ	.
 4d A	4.aa	.
 4d A	.	.
 .	8dd	.

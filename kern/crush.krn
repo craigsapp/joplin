@@ -89,9 +89,9 @@
 =12	=12	=12
 4A AA	4aa ee cc# a	.
 4A AA	4aa ee cc# a	.
-(8AAL	(8AL	.
+8AAL	8AL	.
 8GG#J	8G#J	.
-4AA)	4A)	.
+4AA	4A	.
 =13	=13	=13
 *	*^	*
 4D DD	2a	4r	.
@@ -160,10 +160,10 @@
 4C CC	2r	4dd b-	.
 4e c B-	.	4ee b-	.
 =24	=24	=24	=24
-4F FF	(2.aa	4r	.
+4F FF	2.aa	4r	.
 4G GG	.	4cc a	.
 4A AA	.	4cc a	.
-4B- BB-	4ff)	4dd f	.
+4B- BB-	4ff	4dd f	.
 *	*v	*v	*
 =25	=25	=25
 4A AA	4ff cc f	.
@@ -257,76 +257,76 @@
 4G GG	2.dd b-	.
 4e c B-	.	.
 4C CC	.	.
-4e c B-	(8eeL	.
-.	8ggJ)	.
+4e c B-	8eeL	.
+.	8ggJ	.
 =41	=41	=41
 4E EE	4dd b-	.
 4e c B-	4dd- b-	.
 4C CC	4cc b-	.
-4e c B-	(8ffL	.
-.	8eeJ)	.
+4e c B-	8ffL	.
+.	8eeJ	.
 =42	=42	=42
 4F FF	2.dd	.
 4f c A	.	.
 4C CC	.	.
-4f c A	(8ffL	.
-.	8aaJ)	.
+4f c A	8ffL	.
+.	8aaJ	.
 =43	=43	=43
 4F FF	4dd a	.
 4f c A	4dd- a	.
 4A AA	4cc a	.
-4f c A	(8ffL	.
-.	8aaJ)	.
+4f c A	8ffL	.
+.	8aaJ	.
 =44	=44	=44
-4G GG	(8dddL bb- gg ee	.
+4G GG	8dddL bb- gg ee	.
 .	8ee	.
 4e c B-	8gg	.
-.	8bb-J)	.
+.	8bb-J	.
 4C CC	4ddd bb- gg ee	.
 4e c B-	4ddd bb- gg ee	.
 =45	=45	=45
-4E EE	(8dddL bb- gg ee	.
+4E EE	8dddL bb- gg ee	.
 .	8ccc	.
 4e c B-	8bb-	.
 .	8ggJ	.
 4C CC	8eeL	.
 .	8dd	.
 4e c B-	8dd-	.
-.	8ccJ)	.
+.	8ccJ	.
 =46	=46	=46
-4A AA	(8cccL aa ff cc	.
+4A AA	8cccL aa ff cc	.
 .	8cc	.
 4f c A	8ff	.
-.	8aaJ)	.
+.	8aaJ	.
 4F FF	4ccc aa ff cc	.
 4f c A	4ccc aa ff cc	.
 =47	=47	=47
-4A AA	(8cccL	.
+4A AA	8cccL	.
 .	8aa	.
 4f c A	8ff	.
 .	8ccJ	.
 4F FF	8aaL	.
 .	8ff	.
-4f c A	8cc)	.
+4f c A	8cc	.
 .	8aJ	.
 =48	=48	=48
 4G GG	2.dd b-	.
 4e c B-	.	.
 4C CC	.	.
-4e c B-	(8eeL	.
-.	8ggJ)	.
+4e c B-	8eeL	.
+.	8ggJ	.
 =49	=49	=49
 4E EE	4dd b-	.
 4e c B-	4dd- b-	.
 4C CC	4cc b-	.
-4e c B-	(8ffL	.
-.	8eeJ)	.
+4e c B-	8ffL	.
+.	8eeJ	.
 =50	=50	=50
 4F FF	2.dd a	.
 4f c A	.	.
 4C CC	.	.
-4f c A	(8ffL	.
-.	8aaJ)	.
+4f c A	8ffL	.
+.	8aaJ	.
 =51	=51	=51
 4F FF	4dd a	.
 4f c A	4dd a	.
@@ -334,31 +334,31 @@
 4f c A	4aa a	.
 *clefG2	*	*
 =52	=52	=52
-4cc a f# d	(8dddL aa ff# dd	.
+4cc a f# d	8dddL aa ff# dd	.
 .	8dd	.
 4cc a f# d	8ff#	.
-.	8aaJ)	.
-4b- g	(8dddL gg dd	.
+.	8aaJ	.
+4b- g	8dddL gg dd	.
 .	8dd	.
 4b- g	8gg	.
-.	8bb-J)	.
+.	8bb-J	.
 =53	=53	=53
-4g e c# A	(8aaL ee cc# a	.
+4g e c# A	8aaL ee cc# a	.
 .	8a	.
 4g e c# A	8cc#	.
-.	8eeJ)	.
-4fn d	(8aaL dd a	.
+.	8eeJ	.
+4fn d	8aaL dd a	.
 .	8a	.
 4f d	8dd	.
-.	8ffnJ)	.
+.	8ffnJ	.
 =54	=54	=54
-4b- f d B-	(8ddL	.
+4b- f d B-	8ddL	.
 .	8ff	.
 4g# f d Bn	8ee	.
 .	8ddJ	.
 4a f c	8ddL	.
 .	8cc	.
-4a f c	8ff)	.
+4a f c	8ff	.
 .	8aaJ	.
 *clefF4	*	*
 =55	=55	=55
@@ -515,32 +515,32 @@
 4r	4r	.
 4EE-	4a f# c	.
 =82	=82	=82
-(8EEnL	4g en c	ff
+8EEnL	4g en c	ff
 8EE-	.	.
 8DD	4g fn Bn	.
 8DD-J	.	.
 8CCL	4g e c	.
 8DD-	.	.
 8DDn	4g f B	.
-8EE-J)	.	.
+8EE-J	.	.
 =83	=83	=83
-(8EEnL	4g en c	ff
+8EEnL	4g en c	ff
 8EE-	.	.
 8DD	4g f Bn	.
-8DD-J)	.	.
+8DD-J	.	.
 4CC	4g e c	.
 4r	4r	.
 *clefG2	*	*
 =84	=84	=84
-(aq	bnq	.
-2b-)	2cc	.
+aq	bnq	.
+2b-	2cc	.
 aq	bq	.
 2b-	2cc	.
 =85	=85	=85
-(aq	bnq	.
-4b-)	4cc	.
-(aq	bq	.
-4b-)	4cc	.
+aq	bnq	.
+4b-	4cc	.
+aq	bq	.
+4b-	4cc	.
 4r	4r	.
 *clefF4	*	*
 4CC	4cc b- en	.
@@ -554,22 +554,22 @@ aq	bq	.
 8GGGn	4cc b- e	.
 8AAA-J	.	.
 =87	=87	=87
-(8AAAL	4cc a f	.
+8AAAL	4cc a f	.
 8AAA-	.	.
 8GGG	4cc b- en	.
-8GGG-J)	.	.
+8GGG-J	.	.
 4FFF	4cc a f	.
 4r	4r	.
 *clefG2	*	*
 =88	=88	=88
-(ddq	eenq	.
-4ee-')	4ff'	.
+ddq	eenq	.
+4ee-'	4ff'	.
 ddq	eeq	.
 4ee-'	4ff'	.
-(ddq	eeq	.
-4ee-')	4ff'	.
-(ddq	eeq	.
-4ee-')	4ff'	.
+ddq	eeq	.
+4ee-'	4ff'	.
+ddq	eeq	.
+4ee-'	4ff'	.
 =89	=89	=89
 ddq	eenq	.
 4ee-	4ff'	.

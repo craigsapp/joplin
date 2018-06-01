@@ -36,10 +36,10 @@
 .	[16ggJJ [g	16ggJJ g
 =3	=3	=3
 8fL B G	16gg]LL g]	16ggLL g
-.	(16dd b	16dd b
+.	16dd b	16dd b
 8fJ B G	16gg g	16gg g
 .	16bJJ	16bJJ
-8fL B G	16ddLK)	16ddLL
+8fL B G	16ddLK	16ddLL
 .	8gg g	16gg g
 8dJ B G	.	16gg g
 .	[16ccJk [e	16ccJJ e
@@ -142,31 +142,31 @@
 *k[]	*k[]	*k[]
 *M2/4	*M2/4	*M2/4
 8fL c A F	16aaLL a	16aaLL a
-.	(16cc	16cc
-8fJ c A F	16ff	16ff
-.	[16aaJJ) [a	16aaJJ a
-8d#L c A F#	16aa]LL a]	16aaLL a
-.	(16cc	16cc
-8d#J c A	16dd#	16dd#
-.	16ff#JJ)	16ff#JJ
-=14	=14	=14
-8eL c G	(16ggLL	16ggLL
 .	16cc	16cc
-8eJ c G	16ee)	16ee
+8fJ c A F	16ff	16ff
+.	[16aaJJ [a	16aaJJ a
+8d#L c A F#	16aa]LL a]	16aaLL a
+.	16cc	16cc
+8d#J c A	16dd#	16dd#
+.	16ff#JJ	16ff#JJ
+=14	=14	=14
+8eL c G	16ggLL	16ggLL
+.	16cc	16cc
+8eJ c G	16ee	16ee
 .	[16ggJJ [g	16ggJJ g
 8eL c G	16gg]LL g]	16ggLL g
-.	(16g	16g
+.	16g	16g
 8eJ c G	16cc	16cc
-.	16eeJJ)	16eeJJ
+.	16eeJJ	16eeJJ
 =15	=15	=15
 8fL B G	16ggLL g	16ggLL g
-.	(16b	16b
+.	16b	16b
 8fJ B G	16dd	16dd
-.	[16ggJJ) [g	16ggJJ g
+.	[16ggJJ [g	16ggJJ g
 8fL B G	16gg]LL g]	16ggLL g
-.	(16b	16b
+.	16b	16b
 8fJ B G	16dd	16dd
-.	16ggJJ)	16ggJJ
+.	16ggJJ	16ggJJ
 =16	=16	=16
 *^	*	*
 4e	8cL	4cc	4cc

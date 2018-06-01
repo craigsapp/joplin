@@ -143,9 +143,9 @@
 =15	=15	=15
 8CL	16eeLL g	.
 .	16dd f	.
-8eJ c G	(16ee g	.
+8eJ c G	16ee g	.
 .	16gJJ	.
-8C#L	16gLL)	.
+8C#L	16gLL	.
 .	16b-	.
 8eJ A G	16a	.
 .	16g#JJ	.
@@ -214,7 +214,7 @@
 =24	=24	=24
 8C CC	8cc e	.
 8r	8r	.
-8C CC	8ccc) ee	.
+8C CC	8ccc ee	.
 8r	8r	.
 =25!|:	=25!|:	=25!|:
 *>B	*>B	*>B
@@ -326,7 +326,7 @@
 *>B2	*>B2	*>B2
 8C CC	8cc g e	.
 8r	8r	.
-8C CC	8ccc) ee	.
+8C CC	8ccc ee	.
 8r	8r	.
 =42	=42	=42
 *>C	*>C	*>C
@@ -593,7 +593,7 @@
 8fJ c A	16gg	.
 .	16ffJJ	.
 =77	=77	=77
-8GL	16bb-LL)	.
+8GL	16bb-LL	.
 .	16aaJ	.
 8eJ c B-	[8ggJ	.
 8CL	16ggLL]	.
@@ -631,7 +631,7 @@
 16cJJ	16CJJ	.	.
 *v	*v	*	*
 =82	=82	=82
-4fn Bn G	16aLL)	.
+4fn Bn G	16aLL	.
 .	16g	.
 .	16f#	.
 .	16gJJ	.
@@ -642,7 +642,7 @@
 =83	=83	=83
 8e c	8cc	.
 8r	8r	.
-8C CC	8ccc) ee	.
+8C CC	8ccc ee	.
 8r	8r	.
 =84!|:	=84!|:	=84!|:
 *>G	*>G	*>G
@@ -755,7 +755,7 @@
 *>G2	*>G2	*>G2
 8C CC	8cc g e	.
 8r	8r	.
-8C CC	8ccc) ee	.
+8C CC	8ccc ee	.
 ==	==	==
 *-	*-	*-
 !!!ENC: Craig Stuart Sapp

@@ -28,8 +28,8 @@
 =3	=3	=3	=3
 2F FF	2ff	4r	.
 .	.	4dd b- f	.
-2a e- c A	2r	(8ffL	.
-.	.	8ee-J)	.
+2a e- c A	2r	8ffL	.
+.	.	8ee-J	.
 .	.	4a	.
 *	*v	*v	*
 =4	=4	=4
@@ -76,21 +76,21 @@
 4D	4ff	.
 4d B- F	4f	.
 =11	=11	=11
-4F FF	(8ffL	.
-.	8ee-J)	.
+4F FF	8ffL	.
+.	8ee-J	.
 4d B- F	4dd	.
-4F FF	(8ee-L	.
-.	8ddJ)	.
+4F FF	8ee-L	.
+.	8ddJ	.
 4e- A F	4cc	.
 =12	=12	=12
-4BB-	(8b-L	.
+4BB-	8b-L	.
 .	8f	.
 4d B- F	8f#	.
 .	8gJ	.
 4FF	8aL	.
 .	8b-	.
 4d B- F	8cc	.
-.	8ddJ)	.
+.	8ddJ	.
 =13	=13	=13
 4C	4.ee-	.
 4e- A F	.	.
@@ -128,11 +128,11 @@
 4D	4ff	.
 4d B- F	4f	.
 =19	=19	=19
-4F FF	(8ffL	.
-.	8ee-J)	.
+4F FF	8ffL	.
+.	8ee-J	.
 4d B- F	4dd	.
-4F FF	(8ee-L	.
-.	8ddJ)	.
+4F FF	8ee-L	.
+.	8ddJ	.
 4e- A F	4cc	.
 =20	=20	=20
 *>A1	*>A1	*>A1
@@ -156,15 +156,15 @@
 .	4cc a	.
 *clefG2	*	*
 =23	=23	=23
-4b- g	(8ggL	.
-.	8ff#J)	.
+4b- g	8ggL	.
+.	8ff#J	.
 4b- g	4gg	.
 4a f#	4.ddd dd	.
 4a f#	.	.
-.	(8ccc# cc#	.
+.	8ccc# cc#	.
 *clefF4	*	*
 =24	=24	=24
-4r	4ddd) dd	.
+4r	4ddd dd	.
 4D DD	4r	.
 4E- EE-	2r	.
 4En EEn	.	.
@@ -174,8 +174,8 @@
 4G GG	4ggg ddd bb- gg	.
 4r	4r	.
 =26	=26	=26
-(8FFnL	4cc a	.
-8EEnJ)	.	.
+8FFnL	4cc a	.
+8EEnJ	.	.
 4FF	4cc a	.
 2C CC	4b- g	.
 .	4b- g	.
@@ -186,10 +186,10 @@
 4a f	4ff	.
 4g en	4.ccc cc	.
 4g e	.	.
-.	(8bbn bn	.
+.	8bbn bn	.
 *clefF4	*	*
 =28	=28	=28
-4r	4ccc) cc	.
+4r	4ccc cc	.
 4C CC	4r	.
 4C# CC#	2r	.
 4D DD	.	.
@@ -232,14 +232,14 @@
 2d B G#	4ff dd	.
 .	4f	.
 =36	=36	=36
-(8AAL	(8AL	f
+8AAL	8AL	f
 8BB-	8B-	.
 8BBn	8Bn	.
 8CJ	8cJ	.
 8C#L	8c#L	.
 8D	8d	.
 8E-	8e-	.
-8EnJ)	8enJ)	.
+8EnJ	8enJ	.
 =37	=37	=37
 4F	4f	.
 4En EEn	4ccc# gg een cc#	.
@@ -402,24 +402,24 @@
 4d B- F	8dddL bb- dd	.
 .	8dddJ bb- dd	.
 4d B- F	4ddd bb- dd	.
-4d B- F	(8ddL	.
-.	8ee-J)	.
+4d B- F	8ddL	.
+.	8ee-J	.
 =63	=63	=63
 4AAn	4ff	.
-4e- c An F	(8ee-L	.
-.	8ccJ)	.
+4e- c An F	8ee-L	.
+.	8ccJ	.
 4FF	4an	.
 4e- c A F	4f	.
 =64	=64	=64
 4BB-	4gg	.
-4d B- F	(8ffL	.
-.	8ddJ)	.
+4d B- F	8ffL	.
+.	8ddJ	.
 4D	4b-	.
 4d B- F	4f	.
 =65	=65	=65
 4AAn	4ff	.
-4e- c An F	(8ee-L	.
-.	8ccJ)	.
+4e- c An F	8ee-L	.
+.	8ccJ	.
 4FF	4an	.
 4e- c A F	4f	.
 =66	=66	=66
@@ -530,14 +530,14 @@
 .	8ff f	.
 =83	=83	=83
 *>F1	*>F1	*>F1
-4E- EE-	(8ee-L e-	.
+4E- EE-	8ee-L e-	.
 .	8B-	.
 4r	8Bn	.
 .	8cJ	.
 2r	8c#L	.
 .	8d	.
 .	8e-	.
-.	8enJ)	.
+.	8enJ	.
 =84:|!	=84:|!	=84:|!
 *>F2	*>F2	*>F2
 4E- EE-	4ee- b- g e-	.

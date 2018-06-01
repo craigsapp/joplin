@@ -450,8 +450,8 @@
 8DL DD	16dddLL aa ff# dd
 .	16ff#
 8dJ A F#	16aa
-.	([16cccJJ aa ff# [ee-
-8FFnL FFFn	16ccc]LL) aa ff# ee-]
+.	[16cccJJ aa ff# [ee-
+8FFnL FFFn	16ccc]LL aa ff# ee-]
 .	16ffn
 8e-J A Fn	16gg
 .	16aaJJ
@@ -615,8 +615,8 @@
 8E-L EE-	[4ee- [g
 8BB-	.
 8EE-J	8ee-] g]
-(16BB-LL	[16B-LL
-16BBnJJ)	16B-JJ]
+16BB-LL	[16B-LL
+16BBnJJ	16B-JJ]
 =71!|:	=71!|:
 *>D	*>D
 16CLL	16cLL
@@ -635,22 +635,22 @@
 8BBnJ	8BnJ
 *clefG2	*
 =73	=73
-(4a- d B-	(16ffLL
+4a- d B-	16ffLL
 .	16een
 .	16ff
 .	16ddJJ
-4g e- c)	16ee-LL
+4g e- c	16ee-LL
 .	16dd
 .	16ee-
-.	16ffJJ)
+.	16ffJJ
 *clefF4	*
 =74	=74
 8A-^L AA-	8ff#^L dd cc
 8A-^J AA-	8ff#^J dd cc
 8G^ GG	8gg^ dd bn
 *	*clefF4
-(16DDLL	(16DLL
-16DD#JJ)	16D#JJ)
+16DDLL	16DLL
+16DD#JJ	16D#JJ
 =75	=75
 16EEnLL	16EnLL
 16FF#	16F#
@@ -668,11 +668,11 @@
 8DD#J	8D#J
 *	*clefG2
 =77	=77
-(4c F# D#	16anLL
+4c F# D#	16anLL
 .	16g#
 .	16a
 .	16f#JJ
-4Bn) G En	16gnLL
+4Bn G En	16gnLL
 .	16f#
 .	16g
 .	16aJJ
@@ -863,8 +863,8 @@
 8E-L EE-	[4ee- [g
 8BB-	.
 8EE-J	8ee-] g]
-(16BB-LL	[16B-LL
-16BBnJJ)	16B-JJ]
+16BB-LL	[16B-LL
+16BBnJJ	16B-JJ]
 =103:|!	=103:|!
 *>D2	*>D2
 8E-L EE-	4ee- g
