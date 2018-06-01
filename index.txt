@@ -1,0 +1,59 @@
+!!!github:	https://github.com/craigsapp/joplin-rags
+!!!pdfprefix:	http://kern.humdrum.org/data?l=/joplin&format=pdf&file=
+**file	**sort	**available	**pdf	**description
+kern/augustan.krn	augustan	Y	augustan	<link><i>Augustan Club Waltz</i></link> (1901)
+kern/bethena.krn	bethena	Y	bethena	<link><i>Bethena</i></link> (1905), Concert Waltz
+kern/binks.krn	binks	Y	binks	<link><i>Binks's Waltz</i></link> (1905)
+kern/breeze.krn	breeze	Y	breeze	<link><i>A Breeze from Alabama</i></link> (1902), March and Two-Step
+kern/cascades.krn	cascades	Y	cascades	<link><i>The Cascades</i></link> (1904)
+kern/chrysanthemum.krn	chrysanthemum	Y	chrysanthemum	<link><i>The Chrysanthemum</i></link> (1904), An Afro-American Intermezzo
+kern/cleopha.krn	cleopha	Y	cleopha	<link><i>Cleopha</i></link> (1902), March and Two-Step
+kern/collision.krn	greatcollision	.	greatcollision	<link><i>Great Collision March</i></link> (1896)
+kern/combination.krn	combination	Y	combination	<link><i>Combination March</i></link> (1896)
+kern/countryclub.krn	countryclub	Y	countryclub	<link><i>Country Club</i></link> (1909), Ragtime Two-Step
+kern/crush.krn	crush	Y	crush	<link><i>The Crush Collision March</i></link> (1896)
+kern/elite.krn	elite	Y	elite	<link><i>Elite Syncopations</i></link> (1902)
+kern/entertainer.krn	entertainer	Y	entertainer	<link><i>The Entertainer</i></link> (1902)
+kern/eugenia.krn	eugenia	Y	eugenia	<link><i>Eugenia</i></link> (1905), Rag
+kern/euphonic.krn	euphonic	.	euphonic	<link><i>Euphonic Sounds</i></link> (1909)
+kern/favorite.krn	favorite	Y	favorite	<link><i>The Favorite</i></link> (1904), Rag
+kern/felicity.krn	felicity	Y	felicity	<link><i>Felicity Rag</i></link> (1911)
+kern/figleaf.krn	figleaf	Y	figleaf	<link><i>Fig Leaf Rag</i></link> (1908)
+kern/gladiolus.krn	gladiolus	Y	gladiolus	<link><i>Gladiolus Rag</i></link> (1907)
+kern/harmony.krn	harmony	Y	harmony	<link><i>Harmony Club Waltz</i></link> (1896)
+kern/heliotrope.krn	heliotrope	Y	heliotrope	<link><i>Heliotrope Bouquet</i></link> (1907), Slow Drag Two-Step
+kern/kismet.krn	kismet	.	kismet	<link><i>Kismet Rag</i></link> (1913)
+kern/leola.krn	leola	Y	leola	<link><i>Leola</i></link> (1905), Two-Step
+kern/magnetic.krn	magneticrag	Y	magnetic	<link><i>Magnetic Rag</i></link> (1914)
+kern/majestic.krn	marchmajestic	Y	marchmajestic	<link><i>March Majestic</i></link> (1902)
+kern/mapleleaf.krn	mapleleaf	Y	mapleleaf	<link><i>Maple Leaf Rag</i></link> (1899)
+kern/newrag.krn	scottjoplinsnewrag	Y	newrag	<link><i>Scott Joplin's New Rag</i></link> (1912)
+kern/nonpareil.krn	nonpareil	Y	nonpareil	<link><i>The Nonpareil</i></link> (1907)
+kern/original.krn	original	Y	original	<link><i>Original Rags</i></link> (1899)
+kern/palmleaf.krn	palmleaf	Y	palmleaf	<link><i>Palm Leaf Rag</i></link> (1903)
+kern/paragon.krn	paragonrag	Y	paragon	<link><i>Paragon Rag</i></link> (1909)
+kern/peacherine.krn	peacherine	Y	peacherine	<link><i>Peacherine Rag</i></link> (1901)
+kern/pineapple.krn	pineapple	Y	pineapple	<link><i>Pine Apple Rag</i></link> (1908)
+kern/pleasant.krn	pleasantmoments	Y	pleasantmoments	<link><i>Pleasant Moments</i></link> (1909), Ragtime Waltz
+kern/ragtimedance.krn	ragtimedance	.	ragtimedance	<link><i>The Ragtime Dance</i></link> (1906)
+kern/reflection.krn	reflection	Y	reflection	<link><i>Reflection Rag</i></link> (1917)
+kern/rosebud.krn	rosebud	Y	rosebud	<link><i>The Rosebud March</i></link> (1905)
+kern/roseleaf.krn	roseleaf	Y	roseleaf	<link><i>Rose Leaf Rag</i></link> (1907)
+kern/school.krn	school	Y	school	<link><i>School of Ragtime</i></link> (1906), Six Exercises for Piano
+kern/searchlight.krn	searchlight	Y	searchlight	<link><i>Searchlight Rag</i></link> (1907)
+kern/something.krn	something	Y	something	<link><i>Something Doing</i></link> (1903), Ragtime Two-Step
+kern/stoptime.krn	stoptime	Y	stoptime	<link><i>Stoptime Rag</i></link> (1910)
+kern/strenuous.krn	strenuous	.	strenuous	<link><i>The Strenuous Life</i></link> (1902)
+kern/sugarcane.krn	sugarcane	Y	sugarcane	<link><i>Sugar Cane</i></link> (1908), Ragtime Two-Step
+kern/sunflower.krn	sunflower	Y	sunflower	<link><i>Sunflower Slow Drag</i></link> (1901)
+kern/swipesy.krn	swipesy	Y	swipesy	<link><i>Swipesy</i></link> (1900), Cake Walk
+kern/sycamore.krn	sycamore	.	sycamore	<link><i>The Sycamore</i></link> (1904), Rag
+kern/wallstreet.krn	wallstreet	Y	wallstreet	<link><i>Wall Street Rag</i></link> (1909)
+kern/weepingwillow.krn	weepingwillow	Y	weepingwillow	<link><i>Weeping Willow</i></link> (1903), Rag
+kern/winners.krn	easywinners	Y	winners	<link><i>The Easy Winners</i></link> (1901), Rag
+kern/lilyqueen.krn	lilyqueen	Y	lilyqueen	<link><i>Lily Queen</i></link> (1907), Ragtime Two-Step
+!! Works without scans
+kern/please.krn	pleasesay	.	please	<link><i>Please Say You Will</i></link> (1895), Song
+kern/antoinette.krn	antoinette	Y	antoinette	<link><i>Antoinette</i></link> (1906)
+kern/solace.krn	solace	Y	solace	<link><i>Solace</i></link>, (1909) A Mexican Serenade
+*-	*-	*-	*-	*-
