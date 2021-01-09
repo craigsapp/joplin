@@ -64,7 +64,7 @@
 =7	=7	=7
 8GGL	16eeeLL gg ee	f
 .	16ccc ee cc	.
-8cJ G E	16dddI  ff dd	.
+8cJ G E	16ddd ff dd	.
 .	[16eeeJJ [gg [ee	.
 8GGL<	16eee]LL gg] ee]	.
 .	16bbJ dd b	.
@@ -455,7 +455,7 @@
 8fJ c A	8cccJ aa ff	.
 =56	=56	=56
 *	*^	*
-8BB-L	2ddd\ bb-\ ff\	8r	.
+8BB-L	2ddd\ bb-\ ff\	8rg	.
 8fJ d B-	.	16b-LL	.
 .	.	16aJJ	.
 8FL	.	16b-LL	.
@@ -567,12 +567,12 @@
 =70	=70	=70
 *>D1	*>D1	*>D1
 8F FF	8ffL a	.
-8r	16bnL	.
+8r	(16b-L	.
 .	16ccJJ	.
 4r	16ddLL	.
 .	16ee	.
 .	16ff	.
-.	16ggJJ	.
+.	16ggJJ)	.
 =71:|!	=71:|!	=71:|!
 *>D2	*>D2	*>D2
 8F FF	8ff a	.
