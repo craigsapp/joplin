@@ -144,8 +144,8 @@
 8CL	16eeLL g	.
 .	16dd f	.
 8eJ c G	16ee g	.
-.	16gJJ	.
-8C#L	16gLL	.
+.	[16gJJ	.
+8C#L	16gLL]	.
 .	16b-	.
 8eJ A G	16a	.
 .	16g#JJ	.
@@ -504,7 +504,8 @@
 8FL	8.aL f	.
 8cJ A	.	.
 .	16ccJk	.
-4C	8.aL f	.
+8CL	8.aL f	.
+8cJ A	.	.
 .	16ccJk	.
 =66	=66	=66
 8FL	16r	.
@@ -522,13 +523,13 @@
 8CL	[4b-	.
 8eJ c B-	.	.
 =68	=68	=68
-4G	16b-LL]	.
+8GL	16b-LL]	.
 .	16cc	.
-.	16ee b-	.
+8eJ c B-	16ee b-	.
 .	16ccJJ	.
-4C	16ddLL	.
+8CL	16ddLL	.
 .	16ee	.
-.	16dd	.
+8eJ c B-	16dd	.
 .	16ccJJ	.
 =69	=69	=69
 8FL	8.ggL a	.
