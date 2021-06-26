@@ -40,7 +40,7 @@
 8r	8r	.
 4D^ DD	4dd^ f# d	.
 8r	8r	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =5!|:	=5!|:	=5!|:
 *>A	*>A	*>A
 4G GG	4.b g d	mf
@@ -69,7 +69,7 @@
 8c A F#	.	.
 4E	4.g e	.
 8B G	.	[[
-!!LO:LB:g=z
+!!LO:LB:g=original
 =10	=10	=10
 4F#	4.cc/ a	.
 8d c A	.	.
@@ -99,7 +99,7 @@
 8e c G	8aa ee a	.
 4e E	4gg cc g	.
 8c C	8ee g e	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =15	=15	=15
 4B BB	4.dd g d	.
 8B G D	.	.
@@ -129,7 +129,7 @@
 4.D DD	4.a	4r	.
 .	.	8f# d cn	.
 *	*v	*v	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =20	=20	=20
 *>A1	*>A1	*>A1
 8GL GG	[4.g [>d [B	.
@@ -168,7 +168,7 @@
 8F# FF#	.	.	.
 8EJ EE	.	.	.
 *	*v	*v	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =25	=25	=25
 8DL< DD	8dd]L b] g]	.
 8r	8g	.
@@ -203,7 +203,7 @@
 4.r	8ddL	.
 .	8dd	.
 .	8ddJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =30	=30	=30
 *	*^	*
 8DL DD	[4.aa [ff#	[4.cc	.
@@ -234,7 +234,7 @@
 8c G E	8eeL]	8cc] g]	.
 8r	8rff	8rg	.
 8r	8eeJ	8rg	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =34	=34	=34	=34
 *ped	*	*	*
 8C#^^L CC#	[4.ee-^^	[4.a# [g	.
@@ -274,7 +274,7 @@
 8r	8r	.
 4G GG	4gg dd b g	.
 8r	8r	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =39||	=39||	=39||
 *>C	*>C	*>C
 *k[]	*k[]	*k[]
@@ -313,7 +313,7 @@
 8cL	4.ccc gg ee cc	.
 8G	.	.
 8EJ)	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =44	=44	=44
 8CL	4.gg ee cc g	.
 8G	.	.
@@ -351,7 +351,7 @@
 8BL	4.ddd bb gg# dd	.
 8G#	.	[
 8EJ)	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =49	=49	=49
 (8AL	2.ccc aa ee cc	mf
 8E	.	.
@@ -389,7 +389,7 @@
 8F#L	.	.
 8Gn	.	.
 8EJ)	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =54	=54	=54
 4C	4cc] g] e]	.
 8r	8r	.
@@ -421,7 +421,7 @@
 8G-L	8gg-L ee- cc a	.
 8A	8gg- ee- cc a	.
 8cJ)	8gg-J ee- cc a	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =60	=60	=60
 (8B-L	8ffL dd- b-	.
 8En	8ff dd- b-	.
@@ -454,7 +454,7 @@
 [4.BB-- [BBB--	[4.b-- [B--	.
 4BB--] BBB--]	4b--] B--]	.
 8BB-- BBB--	8b-- B--	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =66	=66	=66
 4AA- AAA-	4a- A-	.
 8r	8r	.
@@ -485,7 +485,7 @@
 8r	8e-	.
 4.r	4a-	.
 .	8b-	]
-!!LO:LB:g=z
+!!LO:LB:g=original
 =71	=71	=71
 8AA-L AAA-	8ccnL f# d#	mp
 8AA- AAA-	8cc f# d#	.
@@ -519,7 +519,7 @@
 8cL	4.gg ee cc g	.
 8G	.	.
 8EJ)	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =76	=76	=76
 (8CL	4.ccc gg ee cc	.
 8E	.	.
@@ -563,7 +563,7 @@
 8DL	.	.	.
 8F	.	.	.
 8A-J)	.	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =82	=82	=82	=82
 (8GL	4.dd]	4.b g f	.
 8D	.	.	.
@@ -607,7 +607,7 @@
 (8AL	4.ee cc a e	.
 8E	.	.
 8AAJ)	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =88	=88	=88
 (8DL	4.cc a f#	.
 8E	.	.
@@ -647,7 +647,7 @@
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!URL-vhv: https://verovio.humdrum.org/?file=joplin/antoinette.krn
-!!!URL-pdf: https://github.com/craigsapp/joplin/blob/master/reference-edition/antoinette.pdf
+!!!URL-pdf-original: https://github.com/craigsapp/joplin/blob/master/reference-edition/antoinette.pdf
 !!!ENC: Craig Stuart Sapp
 !!!END: 2005/02/04
 !!!EED: Craig Stuart Sapp
