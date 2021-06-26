@@ -1,8 +1,8 @@
 !!!COM: Joplin, Scott
-!!!CDT: 1868/11/24/-1917/04/01/
-!!!OTL: Antoinette 
+!!!CDT: 1868/11/24-1917/04/01
+!!!OTL: Antoinette
 !!!ONB: March and Two-Step
-!!!ODT: 1906///
+!!!ODT: 1906
 !!!OMD: Tempo de Marcia
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
@@ -40,6 +40,7 @@
 8r	8r	.
 4D^ DD	4dd^ f# d	.
 8r	8r	.
+!!LO:LB:g=z
 =5!|:	=5!|:	=5!|:
 *>A	*>A	*>A
 4G GG	4.b g d	mf
@@ -57,7 +58,7 @@
 4G GG	[4.b [>g [d	.
 8B G D	.	.
 =8	=8	=8
-8GGL	(>8b]L> g] d]	.
+8GGL<	(>8b]L> g] d]	.
 8r	8dd b	.
 8BJ G D	8eeJ cc	.
 8DL	8ddL> b	.
@@ -67,7 +68,8 @@
 4D#	4.a f#	<
 8c A F#	.	.
 4E	4.g e	.
-8B G	.	[
+8B G	.	[[
+!!LO:LB:g=z
 =10	=10	=10
 4F#	4.cc/ a	.
 8d c A	.	.
@@ -83,9 +85,9 @@
 8F#L FF#	8r	[4.a [f# [d	.
 8r	(8eeL	.	.
 8cJ F# D	8ddJ	.	.
-8DL DD	8ccL	4.a] f#] d]	>
+8DL< DD	8ccL	4.a] f#] d]	>
 8r	8b	.	.
-8cJ F# D	8aJ)	.	]
+8cJ F# D	8aJ)	.	]]
 *	*v	*v	*
 =13	=13	=13
 4G GG	4.b g d	mf
@@ -97,6 +99,7 @@
 8e c G	8aa ee a	.
 4e E	4gg cc g	.
 8c C	8ee g e	.
+!!LO:LB:g=z
 =15	=15	=15
 4B BB	4.dd g d	.
 8B G D	.	.
@@ -108,7 +111,7 @@
 8cJ A E	8ddJ b	.
 8CL	8eeL cc	.
 8r	8ff# dd	.
-8cJ A E	8ggJ) ee	.
+8cJ A E	8ggJ) ee	[[
 =17	=17	=17
 4C#^^ CC#	4.gg^^ a# g	.
 8A# G E	.	.
@@ -116,16 +119,17 @@
 8B G D	.	.
 =18	=18	=18
 *	*^	*
-4E-^^ EE-	4.cc# a# g	4.ryy	.
+4E-^^ EE-	4.cc#^^ a# g	4.ryy	.
 8c# A# G	.	.	.
 4D^^ DD	(4dd^^	4.b g	>
-8d B G	8een)	.	]
+8d B G	8een)	.	]]
 =19	=19	=19	=19
 4.D DD	4.b	4r	mf
 .	.	8g e c#	.
 4.D DD	4.a	4r	.
 .	.	8f# d cn	.
 *	*v	*v	*
+!!LO:LB:g=z
 =20	=20	=20
 *>A1	*>A1	*>A1
 8GL GG	[4.g [>d [B	.
@@ -164,8 +168,9 @@
 8F# FF#	.	.	.
 8EJ EE	.	.	.
 *	*v	*v	*
+!!LO:LB:g=z
 =25	=25	=25
-8DL DD	8dd]L b] g]	.
+8DL< DD	8dd]L b] g]	.
 8r	8g	.
 8BJ G D	8aJ	.
 8GL GG	8bL	.
@@ -178,7 +183,7 @@
 8F# FF#	.	.
 8EJ EE	.	.
 =27	=27	=27
-8DL DD	8cc]L a]	.
+8DL< DD	8cc]L a]	.
 8r	8a	.
 8cJ F# D	8bJ	.
 8F#L FF#	8cc/L	.
@@ -198,6 +203,7 @@
 4.r	8ddL	.
 .	8dd	.
 .	8ddJ	.
+!!LO:LB:g=z
 =30	=30	=30
 *	*^	*
 8DL DD	[4.aa [ff#	[4.cc	.
@@ -218,7 +224,7 @@
 8B G D	8cc a	.	.
 8FnL FFn	4.dd b	4.g	.
 8E EE	.	.	.
-8DJ DD	.	.	[
+8DJ DD	.	.	[[
 =33	=33	=33	=33
 *ped	*	*	*
 8CL CC	[4.ee	[4.cc [g	f
@@ -226,8 +232,9 @@
 8cJ G E	.	.	.
 *Xped	*	*	*
 8c G E	8eeL]	8cc] g]	.
-8r	8r	8r	.
-8r	8eeJ	8r	.
+8r	8rff	8rg	.
+8r	8eeJ	8rg	.
+!!LO:LB:g=z
 =34	=34	=34	=34
 *ped	*	*	*
 8C#^^L CC#	[4.ee-^^	[4.a# [g	.
@@ -235,8 +242,8 @@
 8c#J A# G	.	.	.
 *Xped	*	*	*
 8c# A# G	8ee-L]	8a#] g]	.
-8r	8r	8r	.
-8r	8ddJ	8r	.
+8r	8rff	8re	.
+8r	8ddJ	8re	.
 =35	=35	=35	=35
 *ped	*	*	*
 8E-^^L EE-	[4.cc#^^	[4.a# [g	.
@@ -244,16 +251,16 @@
 8c#J A# G	.	.	.
 *Xped	*	*	*
 8c# A# G	8cc#L]	8a#] g]	.
-8r	8r	8r	.
-8r	8a#XJ	8r	.
+8r	8rdd	8rc	.
+8r	8a#XJ	8rc	.
 *	*v	*v	*
 =36	=36	=36
 8DL DD	8bL	.
 8r	8r	.
 8dJ B G	8ddJ	.
-8DL DD	8ccL	.
+8DL DD	(>8ccL	.
 8r	8e	.
-8dJ c A	8f#J	.
+8dJ c A	8f#J)	.
 =37	=37	=37
 *>B1	*>B1	*>B1
 4d B G	4g	.
@@ -267,6 +274,7 @@
 8r	8r	.
 4G GG	4gg dd b g	.
 8r	8r	.
+!!LO:LB:g=z
 =39||	=39||	=39||
 *>C	*>C	*>C
 *k[]	*k[]	*k[]
@@ -305,6 +313,7 @@
 8cL	4.ccc gg ee cc	.
 8G	.	.
 8EJ)	.	.
+!!LO:LB:g=z
 =44	=44	=44
 8CL	4.gg ee cc g	.
 8G	.	.
@@ -323,8 +332,8 @@
 =46	=46	=46	=46
 (8GL	4.dd]	4.b g f	.
 8D	.	.	[
-8BBJ	.	.	.
-8GGL	4.ryy	4.gg^^: dd b f	>
+8BBJ	.	.	>
+8GGL	4.ryy	4.gg^^: dd b f	.
 8AA	.	.	.
 8BBJ)	.	.	]
 *	*v	*v	*
@@ -340,8 +349,9 @@
 8G	.	.
 8cJ	.	.
 8BL	4.ddd bb gg# dd	.
-8G#	.	.
-8EJ)	.	[
+8G#	.	[
+8EJ)	.	.
+!!LO:LB:g=z
 =49	=49	=49
 (8AL	2.ccc aa ee cc	mf
 8E	.	.
@@ -373,12 +383,13 @@
 8BJ)	.	.	.
 *	*v	*v	*
 =53	=53	=53
-(8cL	[2.cc [g [e	.
+(8cL	[2.cc [>g [e	.
 8G#	.	.
 8AJ	.	.
 8F#L	.	.
 8Gn	.	.
 8EJ)	.	.
+!!LO:LB:g=z
 =54	=54	=54
 4C	4cc] g] e]	.
 8r	8r	.
@@ -386,15 +397,15 @@
 8BB BBB	8b B	[
 =55!|:	=55!|:	=55!|:
 *>D	*>D	*>D
-*^	*	*
-4.ryy	4BB-\ BBB-	4b- B-	f
-.	8GG-\ GGG-	8g- G-	.
-[4.e- [<E-	[>4.EE- [EEE-	4.ryy	.
-=56	=56	=56	=56
-4e-X] E-X]	4EE-X] EEE-X]	2.ryy	.
-8en En	8EEn EEEn	.	.
-4.f F	4.FF FFF	.	.
-*v	*v	*	*
+!	!	!LO:DY:t=sempre %s
+4BB-\ BBB-	4b- B-	f
+8GG-\ GGG-	8g- G-	.
+!	!LO:TX:t=R.H.:i:c	!
+[>4.EE- [EEE-	[4.e-< [<E-<	.
+=56	=56	=56
+4EE-X] EEE-X]	4e-X<] E-X<]	.
+8EEn EEEn	8en< En<	.
+4.FF FFF	4.f< F<	.
 =57	=57	=57
 [4.C- [CC-	[4.cc- [c-	.
 4C-] CC-]	4cc-] c-]	.
@@ -410,6 +421,7 @@
 8G-L	8gg-L ee- cc a	.
 8A	8gg- ee- cc a	.
 8cJ)	8gg-J ee- cc a	.
+!!LO:LB:g=z
 =60	=60	=60
 (8B-L	8ffL dd- b-	.
 8En	8ff dd- b-	.
@@ -423,26 +435,26 @@
 8E-J	8gg-J ee- cc a	.
 8G-L	8gg-L ee- cc a	.
 8A	8gg- ee- cc a	.
-8cJ)	8gg-J ee- cc a	.
+8cJ	8gg-J ee- cc a	.
 =62	=62	=62
-4B-	4ff dd- b-	.
+4B-)	4ff dd- b-	.
 8r	8r	.
-4BB- BBB-	4b- B-	.
+4BB- BBB-	4b-X B-	.
 8AA AAA	8a A	.
 =63	=63	=63
-*^	*	*
-4.ryy	4AA-\ AAA-	4a- A-	.
-.	8FF-\ FFF-	8f- F-	.
-[4.d- [D-	[4.DD- [DDD-	4.ryy	.
-=64	=64	=64	=64
-4d-X] D-X]	4DD-X] DDD-X]	2.ryy	.
-8dn Dn	8DDn DDDn	.	.
-4.e- E-	4.EE- EEE-	.	.
-*v	*v	*	*
+4AA-\ AAA-	4a- A-	.
+8FF-\ FFF-	8f- F-	.
+!	!LO:TX:t=R.H.:i:a=2	!
+[>4.DD- [DDD-	[4.d-< [D-<	.
+=64	=64	=64
+4DD-X] DDD-X]	4d-X<] D-X<]	.
+8DDn DDDn	8dn< Dn<	.
+4.EE- EEE-	4.e-< E-<	.
 =65	=65	=65
 [4.BB-- [BBB--	[4.b-- [B--	.
 4BB--] BBB--]	4b--] B--]	.
 8BB-- BBB--	8b-- B--	.
+!!LO:LB:g=z
 =66	=66	=66
 4AA- AAA-	4a- A-	.
 8r	8r	.
@@ -473,6 +485,7 @@
 8r	8e-	.
 4.r	4a-	.
 .	8b-	]
+!!LO:LB:g=z
 =71	=71	=71
 8AA-L AAA-	8ccnL f# d#	mp
 8AA- AAA-	8cc f# d#	.
@@ -506,6 +519,7 @@
 8cL	4.gg ee cc g	.
 8G	.	.
 8EJ)	.	.
+!!LO:LB:g=z
 =76	=76	=76
 (8CL	4.ccc gg ee cc	.
 8E	.	.
@@ -549,6 +563,7 @@
 8DL	.	.	.
 8F	.	.	.
 8A-J)	.	.	.
+!!LO:LB:g=z
 =82	=82	=82	=82
 (8GL	4.dd]	4.b g f	.
 8D	.	.	.
@@ -592,6 +607,7 @@
 (8AL	4.ee cc a e	.
 8E	.	.
 8AAJ)	.	.
+!!LO:LB:g=z
 =88	=88	=88
 (8DL	4.cc a f#	.
 8E	.	.
@@ -630,6 +646,9 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!URL-vhv: https://verovio.humdrum.org/?file=joplin/antoinette.krn
+!!!URL-pdf: https://github.com/craigsapp/joplin/blob/master/reference-edition/antoinette.pdf
 !!!ENC: Craig Stuart Sapp
 !!!END: 2005/02/04
-!!!EEV: 2018/06/01
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2019/06/26
