@@ -1,20 +1,21 @@
 !!!COM: Joplin, Scott
-!!!CDT: 1868/11/24/-1917/04/01/
+!!!CDT: 1868/11/24-1917/04/01
 !!!OTL: Bethena
 !!!ONB: Ragtime Waltz
-!!!PDT: 1905///
-!! ODT is estimate:
-!!!ODT: 1905///
+!!!PDT: 1905
+!!!ODT: ~1905
+!!!AGN: Waltz
 !!!OMD: Valse Tempo
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Ipiano	*Ipiano	*Ipiano
+*Ipiano	*Ipiano	*
 *>[A,B,B1,B,B2,C,D,D1,D,D2,F,G,G1,G,G2,H,H1,H,H2,I]	*>[A,B,B1,B,B2,C,D,D1,D,D2,F,G,G1,G,G2,H,H1,H,H2,I]	*>[A,B,B1,B,B2,C,D,D1,D,D2,F,G,G1,G,G2,H,H1,H,H2,I]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#]	*k[f#]	*k[f#]
-*M3/4	*M3/4	*M3/4
-*MM144	*MM144	*MM144
+*clefF4	*clefG2	*
+*k[f#]	*k[f#]	*
+*kcancel	*kcancel	*
+*M3/4	*M3/4	*
+*MM144	*MM144	*
 =1-	=1-	=1-
 !	!LO:TX:b:Bi:t=Tema	!
 2.r	8aa	mp
@@ -37,13 +38,13 @@
 8BB	.	.
 4AA	.	.
 =5	=5	=5
-!	!LO:TX:i:t=rit.	!
+!	!LO:TX:i:c:t=rit.	!
 8AA	2.e c G	.
 4GG	.	.
 8BB	.	.
 4AA	.	.
 =6	=6	=6
-!	!LO:TX:i:t=poco a poco	!
+!	!LO:TX:i:c:t=poco a poco	!
 8AA	2.e- c G	.
 4C	.	.
 8BB	.	.
@@ -52,10 +53,11 @@
 2.D	2.d c F#	.
 =8	=8	=8
 2.D DD	2.a f# c	.
+!!LO:LB:g=original
 =9||	=9||	=9||
 *	*^	*
-!	!LO:TX:a:i:t=Valse cantabile	!	!
-!	!LO:TX:b:i:t=a tempo	!	!
+!	!LO:TX:a:Bi:t=Valse cantabile	!	!
+!	!LO:TX:b:Bi:t=a tempo	!	!
 *ped	*	*	*
 4GG	8a	2.d B	.
 .	4g	.	mp
@@ -95,6 +97,7 @@
 .	8ee	.	.
 *Xped	*	*	*
 4c G E	4gg	4cc	.
+!!LO:LB:g=original
 =14	=14	=14	=14
 *ped	*	*	*
 4D DD	8b	2g	.
@@ -135,6 +138,7 @@
 .	8b	.	.
 *Xped	*	*	*
 4A G E	4a	.	.
+!!LO:LB:g=original
 =19	=19	=19	=19
 *^	*	*	*
 *ped	*	*	*	*
@@ -166,7 +170,7 @@
 4B G D	.	.	.
 .	8b	.	.
 *Xped	*	*	*
-4B G D	(8ddL	4r	.
+4B G D	(8ddL	4rA	.
 .	8dJ)	.	.
 =23	=23	=23	=23
 *ped	*	*	*
@@ -179,25 +183,22 @@
 =24	=24	=24	=24
 2.G\ GG\	(2g	2.d B	.
 .	4b)	.	.
+!!LO:LB:g=original
 =25||	=25||	=25||	=25||
-((>2F#X FF#X	(4b	2.d# B	f
-!	!LO:TX:a:i:t=ten.	!	!
-.	2a)	.	.
+((2F#X FF#X	(4b	2.d# B	f
+.	2a~~)	.	.
 4Fn FFn))	.	.	.
 =26	=26	=26	=26
-!	!LO:TX:a:i:t=ten.	!	!
-((>2E EE	2.g c#	(2B-	.
+((2E EE	2.g~~ c#	(2B-	.
 4E- EE-))	.	4A)	.
 =27	=27	=27	=27
 *	*	*^	*
-(2D (>DD	(4f#	(2d	2.A	.
-!	!LO:TX:a:i:t=ten.	!	!	!
-.	2fn)	.	.	.
-4C) CC)	.	4e-)	.	.
+((2D DD	(4f#	(2d	2.A	.
+.	2fn~~)	.	.	.
+4C CC))	.	4e-)	.	.
 *	*	*v	*v	*
 =28	=28	=28	=28
-!LO:TX:i:a:t=ten.	!LO:TX:i:a:t=ten.	!	!
-2.FFn FFFn	2.ffn:	2.e-: 2.a: 2.cc:	.
+2.FFn~~ FFFn	2.ffn:~~	2.e-: 2.a: 2.cc:	.
 *	*v	*v	*
 =29!|:	=29!|:	=29!|:
 *>B	*>B	*>B
@@ -216,6 +217,7 @@
 *Xped	*	*	*
 4d B- F	.	4ff dd	.
 *	*v	*v	*
+!!LO:LB:g=original
 =31	=31	=31
 4F FF	8ddd dd	.
 .	4ccc cc	.
@@ -256,9 +258,10 @@
 4G\ GG\	.	.	.
 .	8dd	.	.
 4G-\ GG-\	4cc	4b- e-	.
+!!LO:LB:g=original
 =36	=36	=36	=36
 *ped	*	*	*
-4F FF	2.cc a	2.e-	.
+4F FF	2.cc	2.a e-	.
 4c A	.	.	.
 *Xped	*	*	*
 4c A	.	.	.
@@ -293,6 +296,7 @@
 *Xped	*	*	*
 4d B- F	.	4bb- ff	.
 *	*v	*v	*
+!!LO:LB:g=original
 =41	=41	=41
 *ped	*	*
 4E- EE-	8bb- b-	.
@@ -332,6 +336,7 @@
 8AL	8aL	.
 8A-J	8a-J	.
 4G	4g	.
+!!LO:LB:g=original
 =46	=46	=46
 *>C	*>C	*>C
 8G-	8g-	.
@@ -351,7 +356,7 @@
 =49	=49	=49
 4D DD	4bn g# fn d	<
 4D DD	4b g# f d	.
-4D DD	4b g# f d	[
+4D DD	4b g# f d	[[
 =50	=50	=50
 2En EEn	2b-X gn c#	f
 4E- EE-	4a g cn	.
@@ -359,12 +364,12 @@
 2D DD	[2.a [f# [c	.
 4AA	.	.
 =52	=52	=52
-!LO:TX:a:i:t=ten.	!LO:TX:a:i:t=ten.	!
-2.DD	2.a] f#X] c]	> ]
+2.DD~~	2.a~~] f#X] c]	> ]
+!!LO:LB:g=original
 =53||	=53||	=53||
 *k[f#]	*k[f#]	*k[f#]
 *	*^	*
-!	!LO:TX:a:i:t=Cantabile	!	!
+!	!LO:TX:a:Bi:t=Cantabile	!	!
 *ped	*	*	*
 4GG	8a	2.d B	mp
 .	4g	.	.
@@ -383,12 +388,12 @@
 =55	=55	=55	=55
 *^	*	*	*
 *ped	*	*	*	*
-4r	2D DD	8a	2f# cn	.
+4rc	2D DD	8a	2f# cn	.
 .	.	4cc	.	.
 *Xped	*	*	*	*
 4A F#	.	.	.	.
 .	.	8b	.	.
-4r	4D# DD#	4a	4f# c	.
+4rc	4D# DD#	4a	4f# c	.
 *v	*v	*	*	*
 =56	=56	=56	=56
 *ped	*	*	*
@@ -404,6 +409,7 @@
 .	8ee	.	.
 *Xped	*	*	*
 4c G E	4gg	4cc	.
+!!LO:LB:g=original
 =58	=58	=58	=58
 *ped	*	*	*
 4D DD	8b	2g	.
@@ -423,7 +429,7 @@
 =60	=60	=60	=60
 *^	*	*	*
 *ped	*	*	*	*
-4r	2.D DD	2.a f#	2.cn	.
+4rc	2.D DD	2.a f#	2.cn	.
 4A F# D	.	.	.	.
 *Xped	*	*	*	*
 4A F# D	.	.	.	.
@@ -444,15 +450,16 @@
 .	8b	.	.
 *Xped	*	*	*
 4A G E	4a	.	.
+!!LO:LB:g=original
 =63	=63	=63	=63
 *^	*	*	*
 *ped	*	*	*	*
-4r	2D DD	8a	2f# cn	.
+4rc	2D DD	8a	2f# cn	.
 .	.	4cc	.	.
 *Xped	*	*	*	*
 4A F#	.	.	.	.
 .	.	8b	.	.
-4r	4D# DD#	4a	4f# c	.
+4rc	4D# DD#	4a	4f# c	.
 *v	*v	*	*	*
 =64	=64	=64	=64
 *ped	*	*	*
@@ -490,29 +497,27 @@
 4G\ GG\	2.g 2.d B	.
 4D	.	.
 4GG	.	.
+!!LO:LB:g=original
 =69||	=69||	=69||
 *	*^	*
 *ped	*	*	*
-!LO:TX:a:i:t=ten.	!	!	!
-2.d B Fn	4r	2.g	f
+2.d~~ B Fn	4raa	2.g	f
 .	(8ggL	.	.
 .	8ddd	.	.
 .	8ccc	.	.
 *Xped	*	*	*
 .	8bbJ)	.	.
 =70	=70	=70	=70
-!LO:TX:a:i:t=ten.	!	!	!
 *ped	*	*	*
-2.d B E	4r	2.g#	.
+2.d~~ B E	4raa	2.g#	.
 .	(8eeL	.	.
 .	8bb	.	.
 .	8aa	.	.
 *Xped	*	*	*
 .	8gg#J)	.	.
 =71	=71	=71	=71
-!LO:TX:a:i:t=ten.	!	!	!
 *ped	*	*	*
-2.d# B D#	4r	2.g#	.
+2.d#~~ B D#	4r	2.g#	.
 .	(8dd#L	.	.
 .	8gg#	.	.
 .	8aa#	.	.
@@ -520,26 +525,24 @@
 .	8bbJ)	.	.
 =72	=72	=72	=72
 *ped	*	*	*
-!LO:TX:a:i:t=ten.	!	!	!
-2.B Dn	4r	2.g# e	.
+2.B~~ Dn	4raa	2.g# e	.
 .	(8eeL	.	.
 .	8bb	.	.
 .	8aa	.	.
 *Xped	*	*	*
 .	8gg#J)	.	.
+!!LO:LB:g=original
 =73	=73	=73	=73
-!LO:TX:a:i:t=ten.	!	!	!
 *ped	*	*	*
-2.B C#	4r	2.g# e#	.
+2.B~~ C#	4raa	2.g# e#	.
 .	(8cc#L	.	.
 .	8gg#	.	.
 .	8ff#X	.	.
 *Xped	*	*	*
 .	8ee#J)	.	.
 =74	=74	=74	=74
-!LO:TX:a:i:t=ten.	!	!	!
 *ped	*	*	*
-2.cn Cn	4r	2.a- fn	.
+2.cn~~ Cn	4raa	2.a- fn	.
 .	(8ccnL	.	.
 .	8ffn	.	.
 .	8gg	.	.
@@ -547,25 +550,26 @@
 .	8aa-J)	.	.
 *	*v	*v	*
 =75	=75	=75
-!	!LO:TX:i:t=rit.	!
+!	!LO:TX:i:c:t=rit.	!
 4C-	4a- fn d-	.
 4BB-	4a- f dn	.
 8AAL	4an f d	.
 8DJ	.	.
 =76	=76	=76
 *	*^	*
-!	!LO:TX:a:i:t=ten.	!	!
-(4GG	2.b-	((>4fn d	.
+(4GG	2.b-~~	((4fn d	.
 2C)	.	2e c))	.
 *	*v	*v	*
+!!LO:LB:g=original
 =77!|:	=77!|:	=77!|:
 *>D	*>D	*>D
 *k[b-]	*k[b-]	*k[b-]
-!	!LO:TX:a:i:t=Cantabile	!
-4F FF	(>4a f c	f
+!	!LO:TX:a:Bi:t=Cantabile.	!
+!	!	!LO:DY:Bi:t=%s a tempo.
+4F\ FF	(>4a f c	f
 !	!LO:TX:i:t=a tempo	!
-4G GG	4b- e c	.
-4G# GG#	4bn f d)	.
+4G\ GG	4b- e c	.
+4G#\ GG#	4bn f d)	.
 =78	=78	=78
 *ped	*	*
 4A AA	(8cc	.
@@ -577,15 +581,17 @@
 =79	=79	=79
 *^	*	*
 *ped	*	*	*
-4r	2C CC	(8b-	.
+4rc	2C CC	(8b-	.
 .	.	4gg ee)	.
 *Xped	*	*	*
 4e c B-	.	.	.
 .	.	(8b-	.
-4r	4C# CC#	4gg ee b-)	.
+4rc	4C# CC#	4gg ee b-)	.
 =80	=80	=80	=80
-4r	2.D DD	2ff dd a	.
+*ped	*	*	*
+4rc	2.D DD	2ff dd a	.
 4f d A	.	.	.
+*Xped	*	*	*
 4f d A	.	4aa a	.
 *v	*v	*	*
 =81	=81	=81
@@ -596,6 +602,7 @@
 .	8ff dd# cc a	.
 *Xped	*	*
 4d# c A	4ff dd# cc a	.
+!!LO:LB:g=original
 =82	=82	=82
 *ped	*	*
 4E EE	8aa ee cc a	.
@@ -606,7 +613,7 @@
 4e c A	4ee cc a	.
 =83	=83	=83
 *ped	*	*
-!	!LO:TX:i:t=rall. e dim.	!
+!	!LO:TX:Bi:c:t=rall. e dim.	!
 4E EE	8ee g#	.
 .	4ee g#	.
 4e d G#	.	.
@@ -618,8 +625,9 @@
 .	4cc	.
 4e c Gn	4b-)	.
 =85	=85	=85
-4F FF	(>4a f c	.
-4G\ GG\	4b- e c	f
+!	!	!LO:DY:Bi:t=%s a tempo.
+4F FF	(>4a f c	f
+4G\ GG\	4b- e c	.
 4G#\ GG#\	4bn f d)	.
 =86	=86	=86
 *ped	*	*
@@ -632,26 +640,27 @@
 =87	=87	=87
 *^	*	*
 *ped	*	*	*
-4r	2C CC	(8b-	.
+4rc	2C CC	(8b-	.
 .	.	4gg ee)	.
 *Xped	*	*	*
 4e c B-	.	.	.
 .	.	(8b-	.
-4r	4C# CC#	4gg ee b-)	.
+4rc	4C# CC#	4gg ee b-)	.
+!!LO:LB:g=original
 =88	=88	=88	=88
 *v	*v	*	*
 *>D1	*>D1	*>D1
 *^	*	*
 *ped	*	*	*
-4r	2.D DD	2ff dd a	.
+4rc	2.D DD	2ff dd a	.
 *Xped	*	*	*
 4f d A	.	.	.
-4r	.	(8aaL	.
+4rc	.	(8aaL	.
 .	.	8bbnJ)	.
 =89	=89	=89	=89
 *	*	*^	*
 *ped	*	*	*	*
-4r	2.F# FF#	8ccc	(2.dd#	.
+4rc	2.F# FF#	8ccc	(2.dd#	.
 .	.	4aa	.	.
 4d# c A	.	.	.	.
 .	.	8ccc	.	.
@@ -659,7 +668,7 @@
 4d# c A	.	4aa	.	.
 =90	=90	=90	=90	=90
 *ped	*	*	*	*
-4r	2.G GG	8ccc	2.ee)	.
+4rc	2.G GG	8ccc	2.ee)	.
 .	.	4gg	.	.
 4e c G	.	.	.	.
 .	.	8ccc	.	.
@@ -668,7 +677,7 @@
 *v	*v	*	*	*
 =91	=91	=91	=91
 *ped	*	*	*
-!	!LO:TX:i:t=rit.	!	!
+!	!LO:TX:i:c:t=rit.	!	!
 4G\ GG\	8gg	2ff bn	.
 .	4gg	.	.
 4f Bn G	.	.	.
@@ -683,71 +692,70 @@
 .	8ee	.
 .	8cc	.
 .	8b-J)	.
+!!LO:LB:g=original
 =93:|!	=93:|!	=93:|!
 *>D2	*>D2	*>D2
 *^	*	*
 *ped	*	*	*
-4r	2.D DD	2ff dd a	.
+4rc	2.D DD	2ff dd a	.
 *Xped	*	*	*
 4f d A	.	.	.
-4r	.	(8ddL	.
+4rc	.	(8ddL	.
 .	.	8eeJ)	.
 =94	=94	=94	=94
 *v	*v	*	*
 *>F	*>F	*>F
 *^	*	*
 *ped	*	*	*
-4r	2BB- BBB-	8ff f	.
+4rc	2BB- BBB-	8ff f	.
 .	.	4dd b-	.
 4d B- F	.	.	.
 .	.	8ff f	.
-!	!	!LO:TX:i:t=rit.	!
-4r	4BBn BBBn	4dd g# f	.
+!	!	!LO:TX:Bi:c:t=rit.	!
+4rc	4BBn BBBn	4dd g# f	.
 =95	=95	=95	=95
 *ped	*	*	*
-!	!	!LO:TX:i:t=poco a poco	!
-4r	2C CC	8dd a f	.
+!	!	!LO:TX:Bi:c:t=poco a poco	!
+4rc	2C CC	8dd a f	.
 .	.	4cc a f	.
 *Xped	*	*	*
 4c A F	.	.	.
 .	.	8dd a f	.
-4r	4D DD	4a f# c	.
+4rc	4D DD	4a f# c	.
 =96	=96	=96	=96
 *	*	*^	*
 *ped	*	*	*	*
-4r	2GG GGG	8a	2fn Bn	.
+4rc	2GG GGG	8a	2fn Bn	.
 .	.	4f	.	.
 *Xped	*	*	*	*
 4G F D	.	.	.	.
 .	.	8a	.	.
-4r	4C CC	4g	4e B-	.
-=97	=97	=97	=97	=97
-4r	2.F FF	4f	4c A	.
-((<4d- B-	.	(>8f/L	4ryy	.
-.	.	8ffJ	.	.
-4c A))	.	4ff)	4r	.
-*v	*v	*	*	*
-*	*v	*v	*
+4rc	4C CC	4g	4e B-	.
+*	*	*v	*v	*
+=97	=97	=97	=97
+((4c> A>	2.F FF	4f	.
+((<4d- B-))	.	(>8f/L	.
+.	.	8ffJ	.
+4c A))	.	4ff)	.
+*v	*v	*	*
+!!LO:LB:g=original
 =98||	=98||	=98||
-!LO:TX:a:i:t=ten.	!	!
-!LO:TX:a:i:t=a tempo	!	!
-2.d Bn G#	(8ffL	.
+!LO:TX:a:Bi:t=a tempo.	!	!
+2.d~~ Bn G#	(8ffL	.
 .	8ee	.
 .	8ff	.
 .	8ee	.
 .	8ee-	.
 .	8ddJ)	.
 =99	=99	=99
-!LO:TX:a:i:t=ten.	!	!
-2.d- B-X Gn	(8eenL	.
+2.d-~~ B-X Gn	(8eenL	.
 .	8dd#	.
 .	8ee	.
 .	8dd#	.
 .	8ddn	.
 .	8dd-J)	.
 =100	=100	=100
-!LO:TX:a:i:t=ten.	!	!
-2.c A F#	(8ee-L	.
+2.c~~ A F#	(8ee-L	.
 .	8dd	.
 .	8ee-	.
 .	8dd	.
@@ -759,10 +767,11 @@
 .	4FF#	.	.
 4r;	4ryy	4r;	.
 *v	*v	*	*
+!!LO:LB:g=original
 =102!|:	=102!|:	=102!|:
 *>G	*>G	*>G
 *k[f#c#]	*k[f#c#]	*k[f#c#]
-!	!LO:TX:a:i:t=Cantabile	!
+!	!LO:TX:a:Bi:t=Cantabile.	!
 *ped	*	*
 4BB BBB	8dd	p
 .	4b	.
@@ -811,22 +820,23 @@
 *Xped	*	*
 4d B F#	8b]L	.
 .	8ddJ	.
+!!LO:LB:g=original
 =108	=108	=108
-!	!LO:TX:i:t=rit.	!
+!	!LO:TX:Bi:c:t=rit.	!
 4G\ GG\	8dd b	<
 .	4dd b	.
 4G\ GG\	.	.
 .	8dd b	.
 4G\ GG\	8eeL cc# b	.
-.	8ee#J cc# b	[
+.	8ee#J cc# b	[[
 =109	=109	=109
 4F#\ FF#\	4ff# cc# a#	f
-4C#^^\	4c#^^	.
-(8EE#q\	(8E#<q	>
-4FF#^^<\)	4F#<^^/)	]
+4C#^^\	4c#^^	>
+(8EE#q\	(<(>8E#<q	.
+4FF#^^<\)	4F#<^^/))	]]
 =110	=110	=110
 *ped	*	*
-!	!LO:TX:i:t=a tempo	!
+!	!LO:TX:Bi:c:t=a tempo.	!
 4BB BBB	8dd	p
 .	4b	.
 4d B F#	.	.
@@ -858,6 +868,7 @@
 *Xped	*	*
 4d B F#	8ff#L	.
 .	8bbJ	.
+!!LO:LB:g=original
 =114	=114	=114
 *ped	*	*
 4E EE	8bb	.
@@ -907,9 +918,10 @@
 =120	=120	=120	=120
 4F# FF#	4.a	4.d	.
 4A F#	.	.	.
-.	(8aL	8r	<
-4A F#	8dd	4r	.
-.	8ff#J)	.	[
+.	(8aL	8rc	<
+4A F#	8dd	4rc	.
+.	8ff#J)	.	[[
+!!LO:LB:g=original
 =121	=121	=121	=121
 *ped	*	*	*
 4AA AAA	8aa	2.cc# a	f
@@ -923,14 +935,14 @@
 =122	=122	=122
 *ped	*	*
 4D DD	8ff#L dd a	.
-.	8ddJ	>
+.	8ddJ	.
 *Xped	*	*
-4d A F#	4a	.
-4A AA	4ccn f# d	]
+4d A F#	4a	>
+4A AA	4ccn f# d	]]
 =123	=123	=123
 *	*^	*
 *ped	*	*	*
-4G GG	8b	2b g d	mf
+4G\ GG\	8b	2b g d	mf
 .	4dd	.	.
 *Xped	*	*	*
 4E EE	.	.	.
@@ -939,10 +951,10 @@
 =124	=124	=124	=124
 *^	*	*	*
 *ped	*	*	*	*
-4r	2.F# FF#	2a	2.d	<
-4A F#	.	.	.	.
+4r	2.F# FF#	2a	2.d	.
+4A F#	.	.	.	<
 *Xped	*	*	*	*
-4A F#	.	4dd	.	[
+4A F#	.	4dd	.	[[
 *v	*v	*	*	*
 *	*v	*v	*
 =125	=125	=125
@@ -955,20 +967,21 @@
 =126	=126	=126
 4d B	4b	.
 4B BB	4dd g# e# d	>
-4A AA	4ccn a f# d	]
+4A AA	4ccn a f# d	]]
 =127	=127	=127
 *	*^	*
 4G\ GG\	8b	2b g d	mf
 .	4dd	.	.
 4E EE	.	.	.
 .	8b	.	.
-4E EE#	4dd	4g# d	.
+4E# EE#	4dd	4g# d	.
+!!LO:LB:g=original
 =128	=128	=128	=128
 4F# FF#	4.a	4.d	.
 4A F#	.	.	.
-.	(8aL	8r	<
-4A F#	8dd	4r	.
-.	8ff#J)	.	[
+.	(8aL	8rc	<
+4A F#	8dd	4rc	.
+.	8ff#J)	.	[[
 =129	=129	=129	=129
 *ped	*	*	*
 4AA AAA	8aa	2.cc# a	f
@@ -1017,10 +1030,11 @@
 4D DD	2dd a f#	.
 4d A F#	.	.
 4A AA	4ccn f# d	.
+!!LO:LB:g=original
 =135:|!	=135:|!	=135:|!
 *>H2	*>H2	*>H2
 *	*^	*
-!	!LO:TX:i:t=rit.	!	!
+!	!LO:TX:Bi:c:t=rit.	!	!
 (4AA	8aa	2cc# a	f
 .	4gg	.	.
 4A)	.	.	.
@@ -1028,24 +1042,22 @@
 4B-	4cc#	4g e	.
 *	*v	*v	*
 =136	=136	=136
-!	!LO:TX:i:a:t=ten.	!
-(8AL	2.ccn f#X d#	f
+!	!LO:TX:c:Bi:t=a tempo.	!
+(8AL	2.ccn~~ f#X d#	f
 8G#	.	.
 8A	.	.
 8G#	.	.
 8Gn	.	.
 8F#J)	.	.
 =137	=137	=137
-!	!LO:TX:i:a:t=ten.	!
-(8G#L	2.b fn dn	f
+(8G#L	2.b~~ fn dn	f
 8F##	.	.
 8G#	.	.
 8F##	.	.
 8F#	.	.
 8FnJ)	.	.
 =138	=138	=138
-!	!LO:TX:i:a:t=ten.	!
-(8GnL	2.b- e c#X	f
+(8GnL	2.b-~~ e c#X	f
 8F#X	.	.
 8G	.	.
 8F#	.	.
@@ -1053,17 +1065,16 @@
 8EJ)	.	.
 =139	=139	=139
 4E EE	4b- g c#X	ff
-!LO:TX:i:a:t=ten.	!LO:TX:i:a:t=ten.	!
-2E- EE-	2a g cn	ff
+2E-~~ EE-	2a~~ g cn	ff
 =140	=140	=140
-!LO:TX:i:a:t=ten.	!LO:TX:i:a:t=ten.	!
-2.D DD	2.a f# cn	ff
+2.D~~ DD	2.a~~ f# cn	ff
+!!LO:LB:g=original
 =141||	=141||	=141||
 *>I	*>I	*>I
 *k[f#]	*k[f#]	*k[f#]
 *	*^	*
 *ped	*	*	*
-!	!LO:TX:i:a:t=Finale	!	!
+!	!LO:TX:Bi:a:t=Finale	!	!
 4GG	8a	2.d B	mf
 .	4g	.	.
 4G D	.	.	.
@@ -1081,12 +1092,12 @@
 =143	=143	=143	=143
 *^	*	*	*
 *ped	*	*	*	*
-4r	2D DD	8a	2f# cn	.
+4rc	2D DD	8a	2f# cn	.
 .	.	4cc	.	.
 *Xped	*	*	*	*
 4A F#	.	.	.	.
 .	.	8b	.	.
-4r	4D# DD#	4a	4f# c	.
+4rc	4D# DD#	4a	4f# c	.
 *v	*v	*	*	*
 =144	=144	=144	=144
 *ped	*	*	*
@@ -1102,6 +1113,7 @@
 .	8ee	.	.
 *Xped	*	*	*
 4c G E	4gg	4cc	.
+!!LO:LB:g=original
 =146	=146	=146	=146
 *ped	*	*	*
 4D DD	8b	2g	.
@@ -1121,7 +1133,7 @@
 =148	=148	=148	=148
 *^	*	*	*
 *ped	*	*	*	*
-4r	2.D DD	2.a f#	2.cn	.
+4rc	2.D DD	2.a f#	2.cn	.
 4A F# D	.	.	.	.
 *Xped	*	*	*	*
 4A F# D	.	.	.	.
@@ -1145,13 +1157,14 @@
 =151	=151	=151	=151
 *^	*	*	*
 *ped	*	*	*	*
-4r	2D DD	8a	2f# cn	.
+4rc	2D DD	8a	2f# cn	.
 .	.	4cc	.	.
 *Xped	*	*	*	*
 4A F#	.	.	.	.
 .	.	8b	.	.
-4r	4D# DD#	4a	4f# c	.
+4rc	4D# DD#	4a	4f# c	.
 *v	*v	*	*	*
+!!LO:LB:g=original
 =152	=152	=152	=152
 *ped	*	*	*
 4E EE	2.g	2.e B	.
@@ -1168,13 +1181,13 @@
 4c G E	4gg	4cc	.
 =154	=154	=154	=154
 *ped	*	*	*
-!	!LO:TX:i:t=rit. poco a poco	!	!
+!	!LO:TX:Bi:c:t=rit. poco a poco	!	!
 4D DD	8b	2g	.
 .	4ee	.	.
 4B G D	.	.	.
 .	8b	.	.
 *Xped	*	*	*
-4B G D	(8ddL	4r	mp
+4B G D	(8ddL	4rc	.
 .	8dJ)	.	.
 =155	=155	=155	=155
 *ped	*	*	*
@@ -1186,7 +1199,7 @@
 4D; DD;	4a; f#;)	4c;	.
 =156	=156	=156	=156
 *^	*	*	*
-!	!	!LO:TX:a:i:t=Andante	!	!
+!	!	!LO:TX:a:Bi:t=Andante	!	!
 (4D	2.GG	(8a	(4B	p
 .	.	4g	.	.
 4E	.	.	(2c)	.
@@ -1194,8 +1207,9 @@
 4E-	.	4a)	.	.
 =157	=157	=157	=157	=157
 4D)	4GG	4g	4B)	.
-4r	4ryy	(4gg	4r	.
-4r	4ryy	4aa)	4r	.
+4r	4ryy	(4gg	4rA	.
+4r	4ryy	4aa)	4rA	.
+!!LO:LB:g=original
 =158	=158	=158	=158	=158
 (4d	2.G	(8aa	(4b	.
 .	.	4gg	.	.
@@ -1208,8 +1222,8 @@
 4r	4ryy	4ggg	4r	.
 *v	*v	*	*	*
 =160	=160	=160	=160
+!	!	!	!LO:DY:Bi:t=%s Tempo primo
 2.ryy	8aa	2.dd b g	f
-!	!LO:TX:i:t=Tempo primo	!	!
 .	4gg	.	.
 .	8bb	.	.
 .	4aa	.	.
@@ -1229,12 +1243,15 @@
 2EE-; EEE-	2g; e-; B-; G;	.
 =164	=164	=164
 *	*	*above
-!	!LO:TX:i:t=Fine	!
 2.GG GGG	2.g d Bn G	f
+!	!LO:TX:Bi:c:t=Fine.	!
 ==	==;	==
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!URL-vhv: https://verovio.humdrum.org/?file=joplin/bethena.krn
+!!!URL-pdf-original: https://github.com/craigsapp/joplin/blob/master/reference-edition/bethena.pdf
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/11/28
-!!!EEV: 2018/06/02
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2021/06/26
