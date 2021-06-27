@@ -1,8 +1,9 @@
 !!!COM: Joplin, Scott
-!!!CDT: 1868/11/24/-1917/04/01/
+!!!CDT: 1868/11/24-1917/04/01
 !!!OTL: The Favorite 
-!!!ONB: Rag
-!!!ODT: 1902///
+!!!ODT: 1902
+!!!AGN: Ragtime; Two-step
+!!!OMD: Slow March Tempo.
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
@@ -17,7 +18,7 @@
 16B-LK	16b-LK	.
 8A	8a	.
 16B-Jk	16b-Jk	.
-16cLL	16ccLL	.
+16cLL	16ccLL>	.
 16dJ	16ddJ	.
 8cJ	8ccJ	.
 =2	=2	=2
@@ -31,85 +32,99 @@
 .	16eJJ	.
 =3	=3	=3
 8AL D	8fL	.
-8AJ AA	8ccJ g- e-	.
-8B-L BB-	8dd-L f d-	.
+8AJ AA	8ccJ g- e-X	.
+8B-L< BB-	8dd-L f d-	.
 8EJ EE	8gg-J cc b-	.
 =4	=4	=4
-8F FF	8ff cc a	.
-8FL FF	8r	.
-8G GG	8r	.
-8AJ AA	8ee- cc	.
+8F\ FF\	8ff cc a	.
+8FL<^^ FF	8r	.
+8G^^ GG	8r	.
+8A^^J AA	8ee- cc	.
+!!LO:LB:g=original
 =5||!|:	=5||!|:	=5||!|:
 *>A	*>A	*>A
+*ped	*	*
 8B-L BB-	8ddL b-	mf
 8dJ B- F	16bb-L	.
 .	[16ggJJ	.
 8FFL	16ggLL]	.
 .	16ff	.
+*Xped	*	*
 8dJ B- F	16dd	.
 .	16b-JJ	.
 =6	=6	=6
+*ped	*	*
 8CL	16aLK	.
 .	8ff	.
 8e-J A F	.	.
 .	16ggJk	.
 *	*^	*
 8FFL	8ccL	4a	.
+*Xped	*	*	*
 8cJ A F	8ee-J	.	.
 *	*v	*v	*
 =7	=7	=7
+*ped	*	*
 8BB-L	8ddL b-	.
 8dJ B- F	16bb-L	.
 .	[16ggJJ	.
 8FFL	16ggLL]	.
 .	16ff	.
+*Xped	*	*
 8dJ B- F	16dd	.
 .	16b-JJ	.
 =8	=8	=8
+*ped	*	*
 8CL	16aLK	.
 .	8ff	.
 8e-J A F	.	.
 .	16ggJk	.
-8FFL	8ccL a	.
+8FFL<	8ccL a	.
+*Xped	*	*
 8FJ	8fJ	.
+!!LO:LB:g=original
 =9	=9	=9
-8GL	24eLL	.
+(8GL	(24eLL	.
 .	24cc#	.
-.	24b-J	.
+.	24b-J)	.
 8C#J	8gJ	.
-4D	24fLL	.
+4D)	(24fLL	.
 .	24b-	.
-.	24ddJ	.
+.	24ddJ)	.
 .	8ffJ	.
 =10	=10	=10
-8GL	24eLL	.
+(8GL	(24eLL	.
 .	24cc#	.
-.	24b-J	.
+.	24b-J)	.
 8C#J	8gJ	.
-4D	24fLL	.
+4D)	(24fLL	.
 .	24b-	.
-.	24ddJ	.
+.	24ddJ)	.
 .	16ffL	.
-.	16ee-JJ	.
+.	16ee-XJJ	.
 =11	=11	=11
+*ped	*	*
 8CL	16ggLL a	.
 .	16ee-	.
 8e-J A F	16gg a	.
 .	16ccJJ	.
 8FFL	16ee-LL	.
 .	16ff	.
+*Xped	*	*
 8e-J A F	16ee-	.
 .	16ccJJ	.
 =12	=12	=12
-8BB-L	16ddLL	.
+8BB-L	(16ddLL	.
 .	16cc#	.
 8dJ B- F	16dd	.
 .	16b-JJ	.
-8FFL	16ccLL	.
+8FFL	16ccLL<	.
 .	16b	.
 8e-J A F	16cc	.
-.	16fJJ	.
+.	16fJJ)	.
+!!LO:LB:g=original
 =13	=13	=13
+*ped	*	*
 8B-L BB-	8ddL b-	.
 8dJ B- F	16bb-L	.
 .	[16ggJJ	.
@@ -118,16 +133,18 @@
 8dJ B- F	16dd	.
 .	16b-JJ	.
 =14	=14	=14
+*ped	*	*
 8CL	16aLK	.
 .	8ff	.
 8e-J A F	.	.
 .	16ggJk	.
 *	*^	*
-8FFL	8ccL	4a	.
+8FFL	(8ccL	4a	.
 8cJ A F	8ee-J	.	.
 *	*v	*v	*
 =15	=15	=15
-8BB-L	8ddL b-	.
+*ped	*	*
+8BB-L	8ddL b-)	.
 8dJ B- F	16bb-L	.
 .	[16ggJJ	.
 8FFL	16ggLL]	.
@@ -135,32 +152,36 @@
 8dJ B- F	16dd	.
 .	16b-JJ	.
 =16	=16	=16
+*ped	*	*
 8CL	16aLK	.
 .	8ff	.
 8e-J A F	.	.
 .	16ggJk	.
 8FFL	8ccL a	.
+*Xped	*	*
 8FJ	8fJ	.
 =17	=17	=17
-8GL	24eLL	.
+(8GL	(24eLL	.
 .	24cc#	.
-.	24b-J	.
+.	24b-J)	.
 8C#J	8gJ	.
-4D	24fLL	.
+4D)	(24fLL	.
 .	24b-	.
-.	24ddJ	.
+.	24ddJ)	.
 .	8ffJ	.
+!!LO:LB:g=original
 =18	=18	=18
-8GL	24eLL	.
+(8GL	(24eLL	.
 .	24cc#	.
-.	24b-J	.
+.	24b-J)	.
 8C#J	8gJ	.
-4D	24fLL	.
+4D)	(24fLL	.
 .	24b-	.
-.	24ddJ	.
+.	24ddJ)	.
 .	16ffL	.
-.	16ee-JJ	.
+.	16ee-XJJ	.
 =19	=19	=19
+*ped	*	*
 8CL	16ggLL a	.
 .	16ee-	.
 8e-J A F	16gg a	.
@@ -168,14 +189,15 @@
 8FFL	16ee-LL	.
 .	16ff	.
 8e-J A F	16ee-	.
+*Xped	*	*
 .	16ccJJ	.
 =20	=20	=20
 *>A1	*>A1	*>A1
 *^	*	*
 4.d	8B-L	4.b-	.
-.	8FJ FF	.	.
-.	8GL GG	.	.
-8r	8AJ AA	8ee- cc	.
+.	8F^^>J FF	.	.
+.	8G^^>L GG	.	.
+8rg	8A^^>J AA	8ee- cc	.
 *v	*v	*	*
 =21:|!	=21:|!	=21:|!
 *>A2	*>A2	*>A2
@@ -185,6 +207,7 @@
 4ryy	8BB-J BBB-	8bb- dd b-	.
 .	8r	8r	.
 *v	*v	*	*
+!!LO:LB:g=original
 =22!|:	=22!|:	=22!|:
 *>B	*>B	*>B
 8GGL	8ddL	mf
@@ -211,32 +234,33 @@
 =25	=25	=25
 *^	*	*
 8CL	4.C	8ee-L	.
-8e-J c G	.	16ddL	.
+8e- c G	.	16ddL	.
 .	.	[16ccJJ	.
-8e-L c G	.	8ccL]	.
+8e- c G	.	8ccL]	.
 8dJ	8d	8ddJ	.
 *v	*v	*	*
 =26	=26	=26
-16e-LL	16ccLL	.
+(16e-LL	(16ccLL	.
 16d	16b-	.
 16c	16a	.
-16dJJ	16b-JJ	.
+16dJJ)	16b-JJ)	.
 8B-L	8gL	.
 8DJ	8dJ	.
+!!LO:LB:g=original
 =27	=27	=27
-16cLL	16e-LL	.
+(16cLL	(>16e-LL	.
 16B-	16d	.
 16A	16c	.
-16B-JJ	16dJJ	.
+16B-JJ)	16dJJ)	.
 8GL	8B-L	.
 8GJ GG	8b-J g d	.
 =28	=28	=28
 4E- EE-	4cc b- g	<
-4C# CC#	4ee- b- g	.
+4C# CC#	4ee- b- g	[[
 =29	=29	=29
-8D DD	8dd a f#	f
+8D DD	8dd^^ a f#	f
 8r	8r	.
-4D DD	4ddd aa ff# dd	>
+4D DD	4ddd^^ aa ff# dd	f >]
 =30	=30	=30
 8GGL	8ddL	mf
 8dJ B- G	16ggL	.
@@ -263,181 +287,203 @@
 8CL	8ee-L	.
 8e- c G	16ddL	.
 .	[16ccJJ	.
-8e-J c G	8ccL]	.
+8e-J c G	8ccL<]	.
 8r	8e-J	.
+!!LO:LB:g=original
 =34	=34	=34
-8E-L EE-	16gLL	.
+8E-L EE-	(16gLL	.
 .	16f#	.
 8e-J c G	16g	.
 .	16aJJ	.
-8EL EE	16b-LL	.
+8EL EE	16b-LL>	.
 .	16a	.
 8c#J B- G	16b-	.
-.	16ccJJ	.
+.	16ccJJ)	.
 =35	=35	=35
 8FL FF	8dd	.
 8dJ B- F	4ff dd b- f	.
 8EL EE	.	.
-8c#J B- G E	8gg cc# b- g	.
+8c#J B- G En	8gg cc# b- g	.
 =36	=36	=36
-8FL FF	4dd b- f	.
+8FL< FF	4dd\ b-\ f\	.
 8F#J FF#	.	.
-8GL GG	8ddL b- e	.
+8GL GG	8ddL< b- e	.
 8AJ AA	8ccJ f e-	.
 =37	=37	=37
 *>B1	*>B1	*>B1
 4B- BB-	4b- d	.
-4D DD	4dd f# d	.
+4D DD	4dd\ f#\ d\	.
 =38:|!	=38:|!	=38:|!
 *>B2	*>B2	*>B2
-4B- BB-	4b- d	.
+4B- BB-	(>4b- d	.
 *	*^	*
 4D DD	8ffL	4a	.
-.	8ee-J	.	.
+.	8ee-J)	.	.
 *	*v	*v	*
-=39	=39	=39
+=39||	=39||	=39||
 *>C	*>C	*>C
+*ped	*	*
 8BB-L	8ddL b-	mf
 8dJ B- F	16bb-L	.
 .	[16ggJJ	.
 8FFL	16ggLL]	.
 .	16ff	.
+*Xped	*	*
 8dJ B- F	16dd	.
 .	16b-JJ	.
 =40	=40	=40
+*ped	*	*
 8CL	16aLK	.
 .	8ff	.
 8e-J A F	.	.
-.	16ggJk	.
+.	(16ggJk	.
 *	*^	*
 8FFL	8ccL	4a	.
-8cJ A F	8ee-J	.	.
+*Xped	*	*	*
+8cJ A F	8ee-J)	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =41	=41	=41
+*ped	*	*
 8BB-L	8ddL b-	.
 8dJ B- F	16bb-L	.
 .	[16ggJJ	.
 8FFL	16ggLL]	.
 .	16ff	.
 8dJ B- F	16dd	.
+*Xped	*	*
 .	16b-JJ	.
 =42	=42	=42
+*ped	*	*
 8CL	16aLK	.
 .	8ff	.
 8e-J A F	.	.
 .	16ggJk	.
 8FFL	8ccL a	.
+*Xped	*	*
 8FJ	8fJ	.
 =43	=43	=43
-8GL	24eLL	.
+(8GL	(24eLL	.
 .	24cc#	.
 .	24b-J	.
-8C#J	8gJ	.
-4D	24fLL	.
+8C#J	8gJ)	.
+4D)	(24fLL	.
 .	24b-	.
 .	24ddJ	.
-.	8ffJ	.
+.	8ffJ)	.
 =44	=44	=44
-8GL	24eLL	.
+(8GL	(24eLL	.
 .	24cc#	.
 .	24b-J	.
-8C#J	8gJ	.
-4D	24fLL	.
+8C#J	8gJ)	.
+4D)	(24fLL	.
 .	24b-	.
-.	24ddJ	.
-.	16ffL	.
-.	16ee-JJ	.
+.	24ddJJ)	.
+.	16ffLL	.
+.	16ee-XJJ	.
 =45	=45	=45
+*ped	*	*
 8CL	16ggLL a	.
 .	16ee-	.
 8e-J A F	16gg a	.
 .	16ccJJ	.
 8FFL	16ee-LL	.
 .	16ff	.
+*Xped	*	*
 8e-J A F	16ee-	.
 .	16ccJJ	.
 =46	=46	=46
-8BB-L	16ddLL	.
+8BB-L	(16ddLL	.
 .	16cc#	.
 8dJ B- F	16dd	.
 .	16b-JJ	.
-8FFL	16ccLL	.
+8FFL	16ccLL<	.
 .	16b	.
 8e-J A F	16cc	.
-.	16fJJ	.
+.	16fJJ)	.
+!!LO:LB:g=original
 =47	=47	=47
-8B-L BB-	8ddL b-	.
-8dJ B- F	16bb-L	.
-.	[16ggJJ	.
-8FFL	16ggLL]	.
-.	16ff	.
-8dJ B- F	16dd	.
-.	16b-JJ	.
-=48	=48	=48
-8CL	16aLK	.
-.	8ff	.
-8e-J A F	.	.
-.	16ggJk	.
-*	*^	*
-8FFL	8ccL	4a	.
-8cJ A F	8ee-J	.	.
-*	*v	*v	*
-=49	=49	=49
+*ped	*	*
 8BB-L	8ddL b-	.
 8dJ B- F	16bb-L	.
 .	[16ggJJ	.
 8FFL	16ggLL]	.
 .	16ff	.
+*Xped	*	*
+8dJ B- F	16dd	.
+.	16b-JJ	.
+=48	=48	=48
+*ped	*	*
+8CL	16aLK	.
+.	8ff	.
+8e-J A F	.	.
+.	(16ggJk	.
+*	*^	*
+8FFL	8ccL	4a	.
+*Xped	*	*	*
+8cJ A F	8ee-J)	.	.
+*	*v	*v	*
+=49	=49	=49
+*ped	*	*
+8BB-L	8ddL b-	.
+8dJ B- F	16bb-L	.
+.	[16ggJJ	.
+8FFL	16ggLL]	.
+.	16ff	.
+*Xped	*	*
 8dJ B- F	16dd	.
 .	16b-JJ	.
 =50	=50	=50
+*ped	*	*
 8CL	16aLK	.
 .	8ff	.
 8e-J A F	.	.
 .	16ggJk	.
-8FFL	8ccL a	.
+8FFL<	8ccL a	.
+*Xped	*	*
 8FJ	8fJ	.
 =51	=51	=51
-8GL	24eLL	.
+(8GL	(24eLL	.
 .	24cc#	.
-.	24b-J	.
+.	24b-J)	.
 8C#J	8gJ	.
-4D	24fLL	.
+4D)	(24fLL	.
 .	24b-	.
-.	24ddJ	.
+.	24ddJ)	.
 .	8ffJ	.
 =52	=52	=52
-8GL	24eLL	.
+(8GL	(24eLL	.
 .	24cc#	.
-.	24b-J	.
+.	24b-J)	.
 8C#J	8gJ	.
-4D	24fLL	.
+4D)	(24fLL	.
 .	24b-	.
-.	24ddJ	.
-.	16ffL	.
-.	16ee-JJ	.
+.	24ddJJ)	.
+.	16ffLL	.
+.	16ee-XJJ	.
+!!LO:LB:g=original
 =53	=53	=53
+*ped	*	*
 8CL	16ggLL a	.
 .	16ee-	.
 8e-J A F	16gg a	.
 .	16ccJJ	.
 8FFL	16ee-LL	.
 .	16ff	.
+*Xped	*	*
 8e-J A F	16ee-	.
 .	16ccJJ	.
 =54	=54	=54
-*^	*	*
-4d	8B-L	4b-	.
-.	8F FF	.	.
-4ryy	8BB-J BBB-	8bb- dd b-	.
-.	8r	8r	.
-*v	*v	*	*
+8B-L< d	4b-	.
+8F FF	.	.
+8BB-J BBB-	8bb- dd b-	.
+8r	8r	.
 =55!|:	=55!|:	=55!|:
 *>D	*>D	*>D
 *k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
 8E-L	4gg ee- g	p
 8e-J B- G	.	.
-8E-L	4ff# ee- f#	.
+8E-L	4ff#/ ee-/ f#/	.
 8e-J c A	.	.
 =56	=56	=56
 8E-L	4gg ee- g	.
@@ -461,16 +507,17 @@
 =59	=59	=59
 8E-L EE-	4gg ee- g	.
 8e-J B- G	.	.
-8E-L	8ff#L ee- f#	.
+8E-L	8ff#L> ee- f#	.
 8e-J B- G	8ggJ ee- g	.
+!!LO:LB:g=original
 =60	=60	=60
 8DL	4bb- gg dd b-	<
 8dJ B- G	.	.
 8DL	4ddd bb- gg dd	.
-8dJ B- G	.	.
+8dJ B- G	.	[[
 =61	=61	=61
-8DL	16r	mf
-.	16ff#LL	.
+8DL	16r	.
+.	16ff#LL	mf
 8dJ c F#	16ddd dd	.
 .	16ff#JJ	.
 8DL	16aaLL	.
@@ -480,11 +527,11 @@
 =62	=62	=62
 4d B- G	4gg	.
 8FL FF	4bb- dd b-	>
-8BB-J BBB-	.	.
+8BB-J BBB-	.	]]
 =63	=63	=63
 8E-L EE-	4gg ee- g	p
 8e-J B- G	.	.
-8E-L	4ff# ee- f#	.
+8E-L	4ff#/ ee-/ f#/	.
 8e-J c A	.	.
 =64	=64	=64
 8E-L	4gg ee- g	.
@@ -505,6 +552,7 @@
 8e-J B- G	.	.
 8e-L E-	4bb- gg b-	.
 8d-J D-	.	.
+!!LO:LB:g=original
 =67	=67	=67
 8cL C	16r	.
 .	16ee-LL	.
@@ -523,17 +571,17 @@
 8B-L BB-	16bb-LL b-	.
 .	16ee-J	.
 8e-J B- G	8ggJ b-	.
-8FL FF	8ggL ee- a	.
+8FL< FF	8ggL ee- a	.
 8BB-J BBB-	8ffJ dd a-	.
 =70	=70	=70
 *>D1	*>D1	*>D1
-8E- EE-	8ee-L g	.
-8r	16b-L	.
+8E-\ EE-\	8ee-L g	.
+8r	(16b-L	.
 .	16ccJJ	.
 4r	16ddLL	.
 .	16ee-	.
 .	16ff	.
-.	16ff#JJ	.
+.	16ff#JJ)	.
 =71:|!	=71:|!	=71:|!
 *>D2	*>D2	*>D2
 8E- EE-	8ee- g	.
@@ -552,36 +600,37 @@
 8dJ B- A-	.	.
 8BB-L	4fff aa- ff	.
 8dJ B- A-	.	.
+!!LO:LB:g=original
 =74	=74	=74
 8E-L	8eee-L gg ee-	.
 8e-J B- G	8cccJ gg cc	.
 8BB-L	[4bb- [gg [b-	.
 8e-J B- G	.	.
 =75	=75	=75
-8E-L	8bb-]L gg] b-]	.
+8E-L	(8bb-]L gg] b-]	.
 8e-J B- G	16ee-L	.
 .	16ffJJ	.
 8BB-L	16ggLL	.
 .	16aa-	.
 8e-J B- G	16bb-	.
-.	16cccJJ	.
+.	16cccJJ)	.
 =76	=76	=76
 8FL	8dddL aa- dd	.
 8dJ B- A-	8cccJ aa- cc	.
-8BB-L	[4bb- [aa- [b-	.
+8BB-L	[4bb- [<aa- [b-	.
 8dJ B- A-	.	.
 =77	=77	=77
 8DL	8bb-]L aa-] b-]	.
-8dJ B- A-	16ffL	.
+8dJ B- A-	(16ffL	.
 .	16ggJJ	.
 8BB-L	16aa-LL	.
 .	16bb-	.
 8dJ B- A-	16ccc	.
-.	16dddJJ	.
+.	16dddJJ)	.
 =78	=78	=78
 8E-L	8eee-L gg ee-	.
 8e-J B- G	8cccJ gg cc	.
-8BB-L	[4bb- [gg [b-	.
+8BB-L	[4bb- [<gg [b-	.
 8e-J B- G	.	.
 =79	=79	=79
 8e- B- G E-	8bb-]L gg] b-]	.
@@ -599,6 +648,7 @@
 8dJ B- A-	.	.
 8BB-L	4fff aa- ff	.
 8dJ B- A-	.	.
+!!LO:LB:g=original
 =82	=82	=82
 8E-L	8eee-L gg ee-	.
 8e-J B- G	8cccJ gg cc	.
@@ -640,11 +690,18 @@
 *>E2	*>E2	*>E2
 8E-L EE-	4ee- g	.
 8BB-	.	.
-8EE-J	8eee- gg ee-	.
+!	!LO:TX:c:B:t=FINE.	!
+8EE-^^J	8eee-^^ gg ee-	.
 8r	8r	.
 ==	==	==
 *-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!URL-vhv: https://verovio.humdrum.org/?file=joplin/favorite.krn
+!!!URL-pdf-original: https://github.com/craigsapp/joplin/blob/master/reference-edition/favorite.pdf
+!!!verovio: tupletNumHead
 !!!ENC: Nate Sloan
 !!!END: 2012/05/07
-!!!OMB: Converted from MusicXML by Craig Sapp 2012/05/08
-!!!EEV: 2018/06/01
+!!!ONB: Converted from MusicXML by Craig Sapp 2012/05/08
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2021/06/27
