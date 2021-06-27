@@ -44,7 +44,7 @@
 8GGL<^^ GGG^^	8ggL<^^ dd^^ b^^ g^^	.
 8BJ G	16dL	>
 .	16d#JJ	]]
-!!LO:LB:g=z
+!!LO:LB:g=original
 =5!|:	=5!|:	=5!|:
 *>A	*>A	*>A
 8CL	16eLK	p
@@ -75,7 +75,7 @@
 8cL G E	8ccc]L ee] cc]	>
 8BJ G	(16dL	.
 .	16d#JJ)	]]
-!!LO:LB:g=z
+!!LO:LB:g=original
 =9	=9	=9
 8CL	16eLK	p
 .	8cc	.
@@ -105,7 +105,7 @@
 8AL AA	8ddd]L ff] dd]	>
 8BJ BB	(16dL	.
 .	16d#JJ)	]]
-!!LO:LB:g=z
+!!LO:LB:g=original
 =13	=13	=13
 8CL	16eLK	p
 .	8cc	.
@@ -135,7 +135,7 @@
 8eJ c G	8ccc]L ee] cc]	.
 8r	16cccL cc	.
 .	16dddJJ dd	.
-!!LO:PB:g=z
+!!LO:PB:g=original
 =17	=17	=17
 8cL C	16eeeLL ee	.
 .	16ccc cc	.
@@ -177,7 +177,7 @@
 .	16ee cc e	.
 8r	16ff dd f	.
 .	16ff#JJ dd# f#	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =22!|:	=22!|:	=22!|:
 *>B	*>B	*>B
 !	!LO:TX:i:t=Repeat 8va.	!
@@ -214,7 +214,7 @@
 .	16gg	.
 8eJ c G	16ee	.
 .	16ffJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =26	=26	=26
 8CL	8ggL ee g	.
 8eJ c G	16aaL ee a	.
@@ -247,7 +247,7 @@
 .	16ee cc e	.
 8DJ^^< DD^^<	16ff dd f	.
 .	16ff#JJ dd# f#	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =30	=30	=30
 8CL^^ CC^^	8ggL ee g	p
 8eJ c G	16aaL ee a	.
@@ -280,7 +280,7 @@
 .	16g	.
 8eJ c B-	16f#	.
 .	16gJJ	]]
-!!LO:LB:g=z
+!!LO:LB:g=original
 =34	=34	=34
 8fL c A F	8ccL	p
 8fJ c A F	16aL	.
@@ -322,7 +322,7 @@
 8C CC	8cc] e]	>
 8r	(16dLL	.
 .	16d#JJ)	]]
-!!LO:PB:g=z
+!!LO:PB:g=original
 =39	=39	=39
 *>C	*>C	*>C
 8CL	16eLK	p
@@ -353,7 +353,7 @@
 8cL G E	8ccc] ee] cc]	>
 8BJ G	(16dLL	.
 .	16d#JJ)	]]
-!!LO:LB:g=z
+!!LO:LB:g=original
 =43	=43	=43
 8CL	16eLK	p
 .	8cc	.
@@ -391,7 +391,7 @@
 8GL GG	8ccL	.
 8cJ B- G	16eL	.
 .	[>16ccJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =48	=48	=48
 8FL FF	4cc_	.
 8cJ A	.	.
@@ -422,7 +422,7 @@
 .	16ccc cc	.
 8eJ c G	16ddd dd	.
 .	16cccJJ cc	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =52	=52	=52
 8AL AA	16eeeLL ee	.
 .	16ccc cc	.
@@ -462,7 +462,7 @@
 .	.	16ccJ	.
 8fJ d B-	.	8ddJ	.
 *	*v	*v	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =57	=57	=57
 8DDL	16ffLL dd	.
 .	16eeJ	.
@@ -500,7 +500,7 @@
 .	16ddd	.
 8eJ d B	16bbn	.
 .	16cccJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =62	=62	=62
 *^	*	*
 4e c A	4ryy	4aa	.
@@ -538,7 +538,7 @@
 8dJ B-	.	8b-J	.
 .	16ggJk	.	.
 *	*v	*v	*
-!!LO:PB:g=z
+!!LO:PB:g=original
 =67	=67	=67
 8B-L BB-	8ddL	.
 8dJ B-	16ggL	.
@@ -579,7 +579,7 @@
 8r	8r	.
 8FF FFF	8fff ccc aa ff	.
 8r	8r	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =72||	=72||	=72||
 *>D2b	*>D2b	*>D2b
 *k[]	*k[]	*k[]
@@ -610,7 +610,7 @@
 4c C	4cc] e]	.
 8C CC	8ccc gg ee cc	.
 8r	8r	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =76!|:	=76!|:	=76!|:
 *>E	*>E	*>E
 8FFL<	8fL d	.
@@ -644,7 +644,7 @@
 .	16ee	.
 8cJ G E	16dd	.
 .	16ccJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =80	=80	=80
 8GGL<	8ddL b	.
 8BJ G F	16cc#L a#	.
@@ -672,7 +672,7 @@
 .	16gJJ e	.
 4r	8gL e	.
 .	8gJ e	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =84	=84	=84
 8FFL<	8fL d	.
 8AJ F	16eL c#	.
@@ -705,7 +705,7 @@
 .	16ee	.
 8cJ G E	16dd	.
 .	16ccJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =88	=88	=88
 8FL FF	16aLL<	.
 .	16g#	.
@@ -748,6 +748,8 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!URL-vhv: https://verovio.humdrum.org/?file=joplin/entertainer.krn
+!!!URL-pdf-original: https://github.com/craigsapp/joplin/blob/master/reference-edition/entertainer.pdf
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/11/28
 !!!EED: Craig Stuart Sapp
