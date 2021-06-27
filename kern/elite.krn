@@ -1,7 +1,8 @@
 !!!COM: Joplin, Scott
-!!!CDT: 1868/11/24/-1917/04/01/
+!!!CDT: 1868/11/24-1917/04/01
 !!!OTL: Elite Syncopations Rag
-!!!ODT: 1902///
+!!!ODT: 1902
+!!!AGN: Rag
 **kern	**kern
 *staff2	*staff1
 *>[I,A,A1,A,A2,B,B1,B,B2,C,D,D1,D,D2,E,E1,E,E2]	*>[I,A,A1,A,A2,B,B1,B,B2,C,D,D1,D,D2,E,E1,E,E2]
@@ -12,25 +13,24 @@
 *M2/4	*M2/4
 *MM100	*MM100
 =1-	=1-
-*	*^
-2r	16cccLL	16ccLL
-.	16aa	16a
-.	16gg	16g
-.	[16ffJJ	[16fJJ
-.	16ffLL]	16fLL]
-.	16aa	16a
-.	16gg	16g
-.	16ffJJ	16fJJ
-=2	=2	=2
-2r	16ggLL	16gLL
-.	16ff	16f
-.	16dd	16d
-.	[16ccJJ	[16cJJ
-.	16ccLL]	16cLL]
-.	16f	16F
-.	16g	16G
-.	16aJJ	16AJJ
-*	*v	*v
+!!!OMD: INTRODUCTION.
+16cc>LL	16cccLL
+16a>	16aa
+16g>	16gg
+[16f>JJ	[16ffJJ
+16f>LL]	16ffLL]
+16a>	16aa
+16g>	16gg
+16f>JJ	16ffJJ
+=2	=2
+16g>LL	16ggLL
+16f>	16ff
+16d>	16dd
+[16c>JJ	[16ccJJ
+16c>LL]	16ccLL]
+16F	16f
+16G	16g
+16AJJ	16aJJ
 =3	=3
 16CLK	16cLK
 8G	8g
@@ -43,25 +43,26 @@
 .	16c
 8D DD	16r
 .	16dLL
-8EJ EE	16r
+8EJ EE	16rb
 .	16eJJ
+!!LO:LB:g=z
 =5!|:	=5!|:
 *>A	*>A
 4.F FF	16r
-.	16fLL
+.	16fLL<
 .	16dd
 .	[16ccJJ [a [f
-.	16cc]LL a] f]
+.	16cc]LL< a] f]
 .	16ddJ
 8F# FF#	8ccJ a d#
 =6	=6
-4.G GG	16r
-.	16eLL
+4.G\ GG\	16r
+.	16eLL<
 .	16dd
-.	[16ccJJ [b- [e
-.	16cc]LL b-] e]
+.	[16ccJJ [<b- [e
+.	16cc]LL< b-] e]
 .	16ddJ
-8G# GG#	8ccJ b- e
+8G#\ GG#\	8ccJ b- e
 =7	=7
 8AL AA	16r
 .	16ccLL a f
@@ -77,9 +78,10 @@
 .	16cc	.
 8BnJ BBn	16dd	8a-J
 .	16ffJJ	.
-8B-L BB-	4r	8eeL cc g
+8B-L< BB-	4ryy	8eeL cc g
 8CJ CC	.	8ggJ ee b-
 *	*v	*v
+!!LO:LB:g=z
 =9	=9
 8FFL	16aaLL ff a
 .	16gg#
@@ -110,24 +112,25 @@
 =12	=12
 8e c	8cc
 8r	8r
-8cL C	8ccc ee cc
+8cL< C	8ccc ee cc
 8CJ CC	8r
+!!LO:LB:g=z
 =13	=13
 4.F FF	16r
-.	16fLL
+.	16fLL<
 .	16dd
 .	[16ccJJ [a [f
-.	16cc]LL a] f]
+.	16cc]LL< a] f]
 .	16ddJ
 8F# FF#	8ccJ a d#
 =14	=14
-4.G GG	16r
-.	16eLL
+4.G\ GG\	16r
+.	16eLL<
 .	16dd
-.	[16ccJJ [b- [e
-.	16cc]LL b-] e]
+.	[16ccJJ [<b- [e
+.	16cc]LL< b-] e]
 .	16ddJ
-8G# GG#	8ccJ b- e
+8G#\ GG#\	8ccJ b- e
 =15	=15
 8AL AA	16r
 .	16ccLL a f
@@ -143,9 +146,10 @@
 .	16cc	.
 8BnJ BBn	16dd	8a-J
 .	16ffJJ	.
-8B-L BB-	4r	8eeL cc g
+8B-L< BB-	4ryy	8eeL cc g
 8CJ CC	.	8ggJ ee b-
 *	*v	*v
+!!LO:LB:g=z
 =17	=17
 8FFL	16aaLL ff a
 .	16gg#
@@ -188,6 +192,7 @@
 .	16ccJJ
 4r	8ccL
 .	8ccJ
+!!LO:LB:g=z
 =22	=22
 *>B	*>B
 8GL	16eeLL
@@ -217,7 +222,7 @@
 8cJ B-	16a
 .	16gJJ
 =25	=25
-8FL	16fLL
+8FL	16fLL<
 .	16a
 8cJ A	16dd
 .	[16ccJJ
@@ -232,6 +237,7 @@
 .	8b-
 8c#J B- G	.
 .	16eJk
+!!LO:LB:g=z
 =27	=27
 8DL	16fLL
 .	16e
@@ -272,6 +278,7 @@
 .	16a
 8cJ A	16g
 .	16fJJ
+!!LO:LB:g=z
 =32	=32
 8GL	16eLL
 .	16f
@@ -282,7 +289,7 @@
 8cJ B-	16a
 .	16gJJ
 =33	=33
-8FL	16fLL
+8FL	16fLL<
 .	16a
 8cJ A	16dd
 .	[16ccJJ
@@ -309,16 +316,18 @@
 .	16g
 8eJ c B-	16dd
 .	[16ccJJ
-8CL	16ccLL]
+8CL	16ccLL<]
 .	16b-J
 8cJ B- G	8eJ
+!!LO:LB:g=z
 =37	=37
 *>B1	*>B1
-8c A F	8fL
+8c A F	8fL<
 8r	16ccL
 .	16ccJJ
 4r	8ccL
 .	8ccJ
+!	!LO:TX:c:i:t=repeat 8va:rj
 =38:|!	=38:|!
 *>B2	*>B2
 8c A F	8f
@@ -331,20 +340,20 @@
 =39	=39
 *>C	*>C
 4.F FF	16r
-.	16fLL
+.	16fLL<
 .	16dd
 .	[16ccJJ [a [f
-.	16cc]LL a] f]
+.	16cc]LL< a] f]
 .	16ddJ
 8F# FF#	8ccJ a d#
 =40	=40
-4.G GG	16r
-.	16eLL
+4.G\ GG\	16r
+.	16eLL<
 .	16dd
 .	[16ccJJ [b- [e
-.	16cc]LL b-] e]
+.	16cc]LL< b-] e]
 .	16ddJ
-8G# GG#	8ccJ b- e
+8G#\ GG#\	8ccJ b- e
 =41	=41
 8AL AA	16r
 .	16ccLL a f
@@ -354,13 +363,14 @@
 .	16cc-LL a-
 8d-J D-	16r
 .	16b-JJ g
+!!LO:LB:g=z
 =42	=42
 *	*^
 8cL C	16aLL	8fL
 .	16cc	.
 8BnJ BBn	16dd	8a-J
 .	16ffJJ	.
-8B-L BB-	4r	8eeL cc g
+8B-L< BB-	4ryy	8eeL cc g
 8CJ CC	.	8ggJ ee b-
 *	*v	*v
 =43	=43
@@ -393,24 +403,25 @@
 =46	=46
 8e c	8cc
 8r	8r
-8cL C	8ccc ee cc
+8cL< C	8ccc ee cc
 8CJ CC	8r
+!!LO:LB:g=z
 =47	=47
 4.F FF	16r
-.	16fLL
+.	16fLL<
 .	16dd
 .	[16ccJJ [a [f
-.	16cc]LL a] f]
+.	16cc]LL< a] f]
 .	16ddJ
 8F# FF#	8ccJ a d#
 =48	=48
-4.G GG	16r
-.	16eLL
+4.G\ GG\	16r
+.	16eLL<
 .	16dd
-.	[16ccJJ [b- [e
-.	16cc]LL b-] e]
+.	[16ccJJ [<b- [e
+.	16cc]LL< b-] e]
 .	16ddJ
-8G# GG#	8ccJ b- e
+8G#\ GG#\	8ccJ b- e
 =49	=49
 8AL AA	16r
 .	16ccLL a f
@@ -426,9 +437,10 @@
 .	16cc	.
 8BnJ BBn	16dd	8a-J
 .	16ffJJ	.
-8B-L BB-	4r	8eeL cc g
+8B-L< BB-	4ryy	8eeL cc g
 8CJ CC	.	8ggJ ee b-
 *	*v	*v
+!!LO:LB:g=z
 =51	=51
 8FFL	16aaLL ff a
 .	16gg
@@ -459,7 +471,8 @@
 8F FF	8f A
 8r	8r
 4F FF	4ff ee- a
-=55	=55
+!!LO:LB:g=z
+=55||	=55||
 *>D	*>D
 *k[b-e-]	*k[b-e-]
 8BB-L	16ddLL b-
@@ -489,10 +502,11 @@
 8enJ c B-	16dd
 .	[16ccJJ [a
 =58	=58
-8e-L A F	4.cc] a]
+8e-XL A F	4.cc] a]
 8FJ FF	.
 8GL GG	.
 8AJ AA	8f
+!!LO:LB:g=z
 =59	=59
 8B-L BB-	16ddLL
 .	16gg
@@ -503,7 +517,7 @@
 8dJ c F#	16dd
 .	16ccJJ
 =60	=60
-8GL	16b-LL
+8GL	16b-LL<
 .	16a
 8dJ B-	16g
 .	[16b-JJ
@@ -523,9 +537,10 @@
 =62	=62
 8f d	8dd
 8r	8r
-4F FF	4ff ee- a
+4F FF	4ff ee-X a
+!!LO:LB:g=z
 =63	=63
-8BB-L BBB-	16ddLL b-
+8BB-L< BBB-	16ddLL b-
 .	16gg
 8dJ B- F	16ff
 .	16ee-JJ
@@ -552,10 +567,11 @@
 8enJ c B-	16dd
 .	[16ccJJ [a
 =66	=66
-8e-L A F	4.cc] a]
+8e-XL A F	4.cc] a]
 8FJ FF	.
 8GL GG	.
 8AJ AA	8f
+!!LO:LB:g=z
 =67	=67
 8B-L BB-	16ddLL
 .	16cc#
@@ -597,10 +613,11 @@
 *^	*
 4.d	8B-L	4.b-
 .	8BB-J BBB-	.
-.	8CL CC	.
-8r	8DJ DD	16r
+.	8CL> CC	.
+8ryy	8DJ DD	16r
 .	.	[16bb- [b-
 *v	*v	*
+!!LO:LB:g=z
 =72!|:	=72!|:
 *>E	*>E
 8E-L EE-	16bb-]LL b-]
@@ -638,6 +655,7 @@
 .	8gg g
 8FJ FF	.
 .	16b-Jk
+!!LO:LB:g=z
 =76	=76
 8cL C	16ffLL f
 .	16a
@@ -674,6 +692,7 @@
 .	8ff f
 8DJ DD	.
 .	[16bb-Jk [b-
+!!LO:LB:g=z
 =80	=80
 8E-L EE-	16bb-]LL b-]
 .	16ee-
@@ -710,12 +729,13 @@
 .	8ff f
 8dJ B- F	.
 .	[16dd-Jk [en
+!!LO:LB:g=z
 =84	=84
 8G-L GG-	16dd-]LL e]
 .	16b-
 8d-J D-	16dd- en
 .	16b-JJ
-8B-L BB-	16ccLK
+8B-L BB-	16ccLK>
 .	8dd- e
 8G-J GG-	.
 .	16b-Jk
@@ -724,7 +744,7 @@
 .	16b-
 8dnJ Dn	16cc
 .	[16ddJJ [f
-8B-L BB-	16dd]LK f]
+8B-L BB-	16dd]LK< f]
 .	8dd f
 8FJ FF	.
 .	[16ffJk [f
@@ -742,7 +762,7 @@
 *^	*
 4d	8B-L	4bb-] b-]
 .	8BB-J BBB-	.
-8CL CC	4r	8.r
+8CL CC	4ryy	8.r
 8DJ DD	.	.
 .	.	[16bb- [b-
 =88:|!	=88:|!	=88:|!
@@ -751,11 +771,16 @@
 *^	*
 4d	8B-L	4bb-] b-]
 .	8FJ FF	.
-8BB- BBB-	4r	8bb- dd b-
+8BB- BBB-	4ryy	8bb- dd b-
 8r	.	8r
 *v	*v	*
 ==	==
 *-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!URL-vhv: https://verovio.humdrum.org/?file=joplin/elite.krn
+!!!URL-pdf-original: https://github.com/craigsapp/joplin/blob/master/reference-edition/elite.pdf
 !!!ENC: Craig Stuart Sapp
 !!!END: 2005/03/30
-!!!EEV: 2018/06/01
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2021/06/27
