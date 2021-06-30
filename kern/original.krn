@@ -1,8 +1,9 @@
 !!!COM: Joplin, Scott
-!!!CDT: 1868/11/24/-1917/04/01/
+!!!CDT: 1868/11/24-1917/04/01
+!!!ARR: Daniels, Charles N.
 !!!OTL: Original Rags
 !!!ONB: Rag
-!!!ODT: 1899///
+!!!ODT: 1899
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
@@ -315,12 +316,12 @@ G#8q	g#8q	.
 =41	=41	=41
 8G GG	8g B	.
 8r	8r	.
-4GG^^ GGG	4gg^ dd b g	.
+4GG^ GGG	4gg^ dd b g	.
 !!LO:LB:g=z
 =42:|!|:	=42:|!|:	=42:|!|:
 *>C	*>C	*>C
 *k[]	*k[]	*k[]
-!LO:TX:a:i:t=2nd .. f .	!	!LO:DY:i:b:t=1st time %s .
+!LO:TX:a:i:t=2nd .. f.	!	!LO:DY:i:b:t=1st time %s .
 8CL	16ggLL	p
 .	16aa	.
 8eJ c G	16gg	.
@@ -852,11 +853,14 @@ G#8q	g#8q	.
 8G GG	8g d B	.
 8r	8r	.
 !	!LO:TX:rj:c:i:t=Fine.	!
-==:|!;	==:|!;	==:|!
+==:|!	==:|!;	==:|!
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!URL-vhv: https://verovio.humdrum.org/?file=joplin/original.krn
+!!!URL-pdf-original: https://github.com/craigsapp/joplin/blob/master/reference-edition/original.pdf
 !!!RDF**kern: j = cue sized
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/11/28
+!!!EED: Craig Stuart Sapp
 !!!EEV: 2021/01/11
