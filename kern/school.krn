@@ -1,24 +1,42 @@
-!!!COM: Joplin, Scott
-!!!CDT: 1868/11/24/-1917/04/01/
+!!!COA: Joplin, Scott
+!!!CDT: 1868/11/24-1917/04/01
 !!!OTL: School of Ragtime
 !!!ONB: Six Exercises for Piano
-!!!ODT: 1906///
-!!!PDT: 1908///
+!!!AGN: Exercise; Ragtim
+!!!ODT: 1906
+!!
+!! REMARKS -- What is scurrilously called ragtime is an invention that is here to stay. That is not conceded
+!! by all classes of musicians. That all publications masquerading under the name of ragtime are not the genuine
+!! article will be better known when these exercises are studied. That real ragtime of the higher class is
+!! rather difficult to play is a painful truth which most pianists have discovered. Syncopations are no
+!! indication of light or trashy music, and to shy bricks at "hateful ragtime" no longer passes for musical
+!! culture.  To assist amateur players in giving the "Joplin Rags" that weird and intoxicating effect intended
+!! by the composer is the object of this work.
+!!
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ipiano	*Ipiano	*Icemba
+*I"	*I"	*I"
 *>[A,A,B,B,C,C,D,D,E,E,F,F]	*>[A,A,B,B,C,C,D,D,E,E,F,F]	*>[A,A,B,B,C,C,D,D,E,E,F,F]
 *>norep[A,B,C,D,E,F]	*>norep[A,B,C,D,E,F]	*>norep[A,B,C,D,E,F]
-*>A	*>A	*>A
 *MM100	*MM100	*MM100
+*>A	*>A	*>A
 !!
 !!
 !! Exercise No. 1
+!!
+!! It is evident that, by giving each note its proper time and by scrupulously observing the ties, you will
+!! get the effect. So many are careless in these respects that we will specify each feature. In this num-
+!! ber, strike the first note and hold it through the time belonging to the second note. The upper staff is
+!! no syncopated, and is not to be payed.  the perpendicular dotted lines running from the syncopated note
+!! below to the two notes above will show exactly its duration. Play slowly until you catch the swing, and
+!! never play ragtime fast at any time.
 !!
 !!
 *clefF4	*clefG2	*clefG2
 *k[]	*k[]	*k[]
 *M2/4	*M2/4	*M2/4
+!!!OMD: Slow march tempo (Count Two)
 16r	[16aa [a	16aa a
 =1	=1	=1
 8fL c A F	16aa]LL a]	16aaLL a
@@ -46,18 +64,25 @@
 =4	=4	=4
 8cL	4cc_ e_	4cc e
 8GJ	.	.
-[8CL	8cc'_L e_	8ccL e
+[8CL	8cc_L e_	8ccL e
 16CJk]	16cc]Jk e]	16ccJk e
+!!LO:LB:g=original
 =5:|!	=5:|!	=5:|!
+*>B	*>B	*>B
 !!
 !!
 !! Exercise No. 2
 !!
+!! This style is rather more difficult, especially for those who are careless with the left hand, and are
+!! prone to vamp.  The first note should be given the full length of three sixteenths, and nore more. The sec-
+!! ond note is struck in its proper place and the third note is not struck but is joined with the second as
+!! though they were one note. This treatment is continued to the end of the exercise.
 !!
-*>B	*>B	*>B
+!!
 *clefF4	*clefG2	*clefG2
 *k[]	*k[]	*k[]
 *M2/4	*M2/4	*M2/4
+!!!OMD: Slow march tempo (Count Two)
 8.fL c A F	8.cccL cc	16cccLL cc
 .	.	16ccc cc
 .	.	16ccc cc
@@ -75,11 +100,11 @@
 8AJ AA	8eeJ cc# g	8eeJ cc# g
 =7	=7	=7
 *	*^	*^
-8.AL AA	4r	8.eeL ccn f#	4r	16eeLL ccn f#
+8.AL AA	4ryy	8.eeL ccn f#	4ryy	16eeLL ccn f#
 .	.	.	.	16ee cc f#
 .	.	.	.	16ee cc f#
-[16GJk [GG	.	[16eeJk b fn	.	16eeJJ b fn
-8G]L GG]	16eeLL]	8bL f	16eeLL	8bL f
+[16GJk [GG	.	[>16eeJk b fn	.	16eeJJ b fn
+8G]L< GG]	16eeLL]	8bL f	16eeLL	8bL f
 .	16bJ	.	16bJ	.
 8GJ GG	8ddJ	8bJ f	8ddJ	8bJ f
 *	*v	*v	*	*
@@ -89,16 +114,21 @@
 8GJ	.	.
 8C	8cc] e]	8cc e
 8r	8r	8r
+!!LO:LB:g=original
 =9:|!	=9:|!	=9:|!
+*>C	*>C	*>C
 !!
 !!
 !! Exercise No. 3
 !!
+!! This style is very effective when neatly played. If you have observed the object of the dotted lines they will
+!! lead you to a proper rendering of this number and you will find it intereresting.
 !!
-*>C	*>C	*>C
+!!
 *clefF4	*clefG2	*clefG2
 *k[]	*k[]	*k[]
 *M2/4	*M2/4	*M2/4
+!!!OMD: Slow march tempo (Count Two)
 8fL c A F	16aaLK ff a	16aaLL a
 .	8aa ff a	16aa a
 8fJ c A F	.	16aa a
@@ -109,20 +139,20 @@
 .	16aaJk dd# a	16aaJJ a
 =10	=10	=10
 *	*^	*
-16eLK c G	4r	16aaLK ee a	16aaLL a
+16eLK c G	4ryy	16aaLK ee a	16aaLL a
 8e c G	.	8gg ee cc g	16gg g
 .	.	.	16gg g
-[16AJk [AA	.	[16ggJk [ee [cc# [g	16ggJJ g
+[16AJk [AA	.	[>16ggJk [>ee [>cc# [g	16ggJJ g
 4A] AA]	16ggLK	16gg]LK ee] cc#] g]	16ggLL g
 .	8ff	8.cc#J g	16ff f
 .	.	.	16ff f
 .	16eeJk	.	16eeJJ e
 =11	=11	=11	=11
-8.AL AA	16ee'LK	8.ccnL f#	16eeLL ccn f#
+8.AL AA	16eeLK	8.ccnL f#	16eeLL< ccn f#
 .	8cc	.	16cc f#
 .	.	.	16cc f#
-[16GJk [GG	[16ddJk	[16bJk [fn	16ddJJ b fn
-8G]L GG]	16dd'LL]	8b]L f]	16ddLL b f
+[16GJk [GG	[16ddJk	[>16bJk [fn	16ddJJ b fn
+8G]L< GG]	16ddLL]	8b]L f]	16ddLL< b f
 .	16eeJ	.	16eeJ b f
 8GJ GG	8ddJ	8bJ f	8ddJ b f
 *	*v	*v	*
@@ -131,59 +161,70 @@
 8GJ	.	.
 8C	8cc] e]	8cc e
 8r	8r	8r
+!!LO:LB:g=original
 =13:|!	=13:|!	=13:|!
+*>D	*>D	*>D
 !!
 !!
 !! Exercise No. 4
 !!
+!! The fourth and fifth notes here form one tine, and also in the middle of the second measure and so to
+!! the end. You will observe that it is a syncopation only when the tied notes are on the same degree of the
+!! staff. Slurs indicate a legato movement.
 !!
-*>D	*>D	*>D
 *clefF4	*clefG2	*clefG2
 *k[]	*k[]	*k[]
 *M2/4	*M2/4	*M2/4
+!!!OMD: Slow march tempo (Count Two)
 8fL c A F	16aaLL a	16aaLL a
-.	16cc	16cc
+.	(16cc	16cc
 8fJ c A F	16ff	16ff
-.	[16aaJJ [a	16aaJJ a
+.	[16aaJJ [a)	16aaJJ a
 8d#L c A F#	16aa]LL a]	16aaLL a
-.	16cc	16cc
+.	(16cc	16cc
 8d#J c A	16dd#	16dd#
-.	16ff#JJ	16ff#JJ
+.	16ff#JJ)	16ff#JJ
 =14	=14	=14
-8eL c G	16ggLL	16ggLL
+8eL c G	(16ggLL	16ggLL
 .	16cc	16cc
-8eJ c G	16ee	16ee
+8eJ c G	16ee)	16ee
 .	[16ggJJ [g	16ggJJ g
 8eL c G	16gg]LL g]	16ggLL g
-.	16g	16g
+.	(16g	16g
 8eJ c G	16cc	16cc
-.	16eeJJ	16eeJJ
+.	16eeJJ)	16eeJJ
 =15	=15	=15
 8fL B G	16ggLL g	16ggLL g
-.	16b	16b
+.	(16b	16b
 8fJ B G	16dd	16dd
-.	[16ggJJ [g	16ggJJ g
+.	[16ggJJ [g)	16ggJJ g
 8fL B G	16gg]LL g]	16ggLL g
-.	16b	16b
+.	(16b	16b
 8fJ B G	16dd	16dd
-.	16ggJJ	16ggJJ
+.	16ggJJ)	16ggJJ
 =16	=16	=16
 *^	*	*
 4e	8cL	4cc	4cc
 .	8GJ	.	.
-8C	4r	8ccc ee cc	8ccc ee cc
+8C	4ryy	8ccc ee cc	8ccc ee cc
 8r	.	8r	8r
 *v	*v	*	*
+!!LO:LB:g=original
 =17:|!	=17:|!	=17:|!
+*>E	*>E	*>E
 !!
 !!
 !! Exercise No. 5
 !!
+!! The first ragtime effect here is the second note, right hand, but, instead of a tie, it is an eighth note:
+!! rather than two sixteenths with tie. In the last part of this measure, the tie is used because the tone is
+!! carriect across the bar. This is a pretty style and not as difficult as it seems on first trial.
 !!
-*>E	*>E	*>E
+!!
 *clefF4	*clefG2	*clefG2
 *k[]	*k[]	*k[]
 *M2/4	*M2/4	*M2/4
+!!!OMD: Slow march tempo (Count Two)
 8FL FF	16aaLK	16aaLL
 .	8ff cc a	16ff cc a
 8fJ c A	.	16ff cc a
@@ -211,6 +252,7 @@
 8eJ c G	8eeJ cc g	8eeJ cc g
 8cL C	8ggL ee cc g	8ggL ee cc g
 8c#J C#	8ggJ ee a# g	8ggJ ee a# g
+!!LO:LB:g=original
 =21	=21	=21
 *M2/4	*M2/4	*M2/4
 8dL D	16ggLK	16ggLL
@@ -238,16 +280,23 @@
 8r	8r	8r
 8C CC	8ccc ee cc	8ccc ee cc
 8r	8r	8r
+!!LO:LB:g=original
 =25:|!	=25:|!	=25:|!
+*>F	*>F	*>F
 !!
 !!
 !! Exercise No. 6
 !!
+!! The instructions given, together with the dotted lines, will enable you to interpret this variety which
+!! has very pleasing effects. We wish to say here, that the "Joplin ragtime" is destroyed by careless or im-
+!! perfect rendering, and very often good players lose the effect entirely, by playing too fast.  They are
+!! harmonized with the supposition that each note will be played as it is written, as it takes this and
+!! also the proper time divisions to complete the sense intended.
 !!
-*>F	*>F	*>F
 *clefF4	*clefG2	*clefG2
 *k[]	*k[]	*k[]
 *M2/4	*M2/4	*M2/4
+!!!OMD: Slow march tempo (Count Two)
 8.AL	8.aL	16aLL
 .	.	16a
 .	.	16a
@@ -269,7 +318,7 @@
 .	.	16g
 .	.	16g
 16AJk	16aJk	16aJJ
-16cLK	16ccLK	16ccLL
+16cLK	16ccLK<	16ccLL
 8G	8g	16g
 .	.	16g
 16AJk	16aJk	16aJJ
@@ -281,16 +330,17 @@
 16ALL]	16aLL]	16aLL
 16F#J	16f#J	16f#J
 8GJ	8gJ	8gJ
+!!LO:LB:g=original
 =29	=29	=29
 *M2/4	*M2/4	*M2/4
 16FnLL	16fnLL	16fnLL
 16A	16a	16a
 16B	16b	16b
-[16cJJ	[16ccJJ	16ccJJ
+[16cJJ	[>16ccJJ	16ccJJ
 16cLK]	16ccLK]	16ccLL
 8B	8b	16b
 .	.	16b
-[16AJk	[16aJk	16aJJ
+[16AJk	[<16aJk	16aJJ
 =30	=30	=30
 16ALL]	16aLL]	16aLL
 16G	16g	16g
@@ -314,5 +364,12 @@
 8r	8r	8r
 ==:|!	==:|!	==:|!
 *-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!URL-vhv: https://verovio.humdrum.org/?file=joplin/school.krn
+!!!URL-pdf-original: https://github.com/craigsapp/joplin/blob/master/reference-edition/school.pdf
+!!!PDT: 1908
 !!!ENC: Craig Stuart Sapp
-!!!END: 2005/02/02/
+!!!END: 2005/02/02
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2021/07/01
