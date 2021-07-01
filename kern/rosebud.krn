@@ -1,10 +1,10 @@
 !!!COM: Joplin, Scott
-!!!CDT: 1868/11/24/-1917/04/01/
-!!!OTL: The Rosebud March
+!!!CDT: 1868/11/24-1917/04/01
+!!!OTL: The Rose-bud March
 !!!ODE: Tom Turpin
-!!!ODT: 1905///
-!!!PDT: 1905///
-!!!PPR: John Stark & Son
+!!!AGN: March
+!!!ODT: 1905
+!!!OMD: Tempo di Marcia.
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
@@ -16,82 +16,84 @@
 *M6/8	*M6/8	*M6/8
 *MM160	*MM160	*MM160
 =1-	=1-	=1
-8dL	8ddL	.
+(8dL	(8ddL	.
 8d-	8dd-	.
 8cJ	8ccJ	.
 8BL	8bL	.
 8B-	8b-	.
-8AJ	8aJ	.
+8AJ)	8aJ)	.
 =2	=2	=2
-8A-L	8a-L	.
+(8A-L	(8a-L	.
 8G	8g	.
 8F#J	8f#J	.
 8FnL	8fnL	.
 8E	8e	.
-8E-J	8e-J	.
+8E-J)	8e-J)	.
 =3	=3	=3
-8DL	8dL	.
+(8DL	(8dL	.
 8D#	8d#	.
 8EJ	8eJ	.
 8F#L	8f#L	.
 8E	8e	.
-8E-J	8e-J	.
+8E-J)	8e-J)	.
 =4	=4	=4
 8D	8d	.
 8r	8r	.
 8r	8r	.
-8D DD	8dd a f# d	.
+8D^^ DD	8dd^^ a f# d	.
 8r	8r	.
 8r	8d	.
+!!LO:LB:g=original
 =5!|:	=5!|:	=5!|:
 *>A	*>A	*>A
 8AAL	8f#L	mf
 8r	8e	.
 8cJ F# D	8dJ	.
-8DDL	8aL	.
+8DDL<	8aL>	.
 8r	8b	.
 8cJ F# D	8ccJ	.
 =6	=6	=6
-8GGL	8bL	.
+8GGL<	8bL	.
 8r	8r	.
 8BJ G D	8eeJ b g	.
-8DDL	4ee b g	.
+8DDL<	4ee b g	.
 8r	.	.
 8BJ G D	8ee	.
 =7	=7	=7
 8FF#L	8ddL	.
 8r	8ee	.
 8cJ A D	8ccJ	.
-8DDL	8bL	.
+8DDL<	8bL	.
 8r	8cc	.
 8cJ F# D	8aJ	.
 =8	=8	=8
-8GGL	8gL	.
+8GGL<	8gL<	.
 8r	8r	.
 8BJ G D	8eeJ b g	.
 4B G D	4ee b g	.
 8B G D	8g	.
+!!LO:LB:g=original
 =9	=9	=9
 8AAL	8f#L	.
 8r	8e	.
 8cJ F# D	8dJ	.
-8DDL	8aL	.
+8DDL<	8aL>	.
 8r	8b	.
 8cJ F# D	8ccJ	.
 =10	=10	=10
-8GGL	8bL	.
+8GGL<	8bL	.
 8r	8r	.
 8BJ G D	8eeJ b g	.
 4B G D	4ee b g	.
 8G# GG#	8ee# dd b	.
 =11	=11	=11
 *	*^	*
-4A AA	8ff#L	4.dd a	.
+4A AA	(8ff#L	4.dd a	.
 .	8ee	.	.
-8d A F#	8ddJ	.	.
-4AA	8cc#L	4g	.
+8d A F#	8ddJ)	.	.
+4AA	(8cc#L	4g	.
 .	8dd	.	.
-8c# A	8eeJ	8g	.
+8c# A	8eeJ)	8g	.
 *	*v	*v	*
 =12	=12	=12
 4d A D	[4.dd [f#	.
@@ -99,11 +101,12 @@
 8D DD	4dd] f#]	.
 8r	.	.
 8r	8d	.
+!!LO:LB:g=original
 =13	=13	=13
 8AAL	8f#L	.
 8r	8e	.
 8cJ F# D	8dJ	.
-8DDL	8aL	.
+8DDL	8aL>	.
 8r	8b	.
 8cJ F# D	8ccJ	.
 =14	=14	=14
@@ -121,18 +124,19 @@
 8r	8cc	.
 8cJ F# D	8aJ	.
 =16	=16	=16
-8GGL	8gL	.
+8GGL	8gL<	.
 8r	8r	.
 8BJ G D	8eeJ b g	.
 4B G D	4ee b g	.
-8r	16ff#LL	.
-.	16ggJJ	.
+8r	(16ff#LL	.
+.	16ggJJ)	.
 =17	=17	=17
 4C	4.aa ee cc	.
 8c A E	.	.
-4c A E	8ggL	.
+4c A E	(8ggL	.
 .	8ee	.
-8c A E	8ccJ	.
+8c A E	8ccJ)	.
+!!LO:LB:g=original
 =18	=18	=18
 8DL	8bL	.
 8r	8r	.
@@ -141,10 +145,10 @@
 8r	8b	.
 8BJ G D	8gJ	.
 =19	=19	=19
-8AAL	8f#L	p
+8AAL	8f#L	.
 8r	8dd	.
 8cJ F# D	8aJ	.
-8DDL	8ccL	.
+8DDL<	8ccL>	.
 8r	8b	.
 8cJ F# D	8aJ	.
 =20	=20	=20
@@ -161,6 +165,7 @@
 4.r	8ddL d	.
 .	8dd d	.
 .	8ddJ d	.
+!!LO:LB:g=original
 =22!|:	=22!|:	=22!|:
 *>B	*>B	*>B
 4C	4.ee cc e	f
@@ -192,13 +197,14 @@
 8c F# D	.	.
 4DD	4ddd ff# dd	.
 8A F# D	8ccc ff# cc	.
+!!LO:LB:g=original
 =28	=28	=28
-8GGL	[2.bb [gg [b	.
+(>8GGL	[2.bb [gg [b	.
 8D	.	.
 8GJ	.	.
 8BL	.	.
 8G	.	.
-8DJ	.	.
+8DJ)	.	.
 =29	=29	=29
 4.GG	4.bb] gg] b]	.
 4G GG	4dd d	.
@@ -222,6 +228,7 @@
 8A# G E	8ggg gg	.
 4A# G E	4fff# ff#	.
 8A# G E	8eee ee	.
+!!LO:LB:g=original
 =34	=34	=34
 4D	4ddd dd	.
 8B G	8ccc# cc#	.
@@ -235,7 +242,7 @@
 =36	=36	=36
 *>B1	*>B1	*>B1
 4GG	[2.gg [b	.
-8D	.	.
+8D/	.	.
 8EL	.	.
 8D	.	.
 8BBJ	.	.
@@ -248,7 +255,7 @@
 =38:|!	=38:|!	=38:|!
 *>B2	*>B2	*>B2
 4GG	[2.gg [b	.
-8D	.	.
+8D/	.	.
 8EL	.	.
 8D	.	.
 8BBJ	.	.
@@ -257,6 +264,7 @@
 8Fn	8r	.
 4E	4.r	.
 8D	.	.
+!!LO:LB:g=original
 =40	=40	=40
 *>C	*>C	*>C
 *k[]	*k[]	*k[]
@@ -266,10 +274,10 @@
 8c G E	.	.
 =41	=41	=41
 *	*^	*
-4C	4.f# d#	4.r	.
+4C	4.f# d#	4.ryy	.
 8c A F#	.	.	.
-4C	4b	4.d#	.
-8c A F#	8a	.	.
+4C	(4b	4.d#	.
+8c A F#	8a)	.	.
 *	*v	*v	*
 =42	=42	=42
 4C	4.g e	.
@@ -282,7 +290,7 @@
 4GG	4.cc b-	.
 8c G E	.	.
 =44	=44	=44
-4FF	4.cc a	.
+4FF	4.cc/ a/	.
 8c A F	.	.
 4C	4.a f	.
 8c A F	.	.
@@ -291,6 +299,7 @@
 8c A F	.	.
 4FF	4.a f	.
 8c A F	.	.
+!!LO:LB:g=original
 =46	=46	=46
 *	*^	*
 4C	[2.g	4.e	.
@@ -300,7 +309,7 @@
 =47	=47	=47	=47
 4B G D	4g]	4f	.
 8r	8r	8r	.
-8G GG	4.r	8gg g	.
+8G GG	4.ryy	8gg g	.
 8r	.	8r	.
 8r	.	8r	.
 *	*v	*v	*
@@ -311,10 +320,10 @@
 8c G E	.	.
 =49	=49	=49
 *	*^	*
-4C	4.f# d#	4.r	.
+4C	4.f# d#	4.ryy	.
 8c A F#	.	.	.
-4C	4b	4.d#	.
-8c A F#	8a	.	.
+4C	(4b	4.d#	.
+8c A F#	8a)	.	.
 *	*v	*v	*
 =50	=50	=50
 4C	4.g e	.
@@ -326,8 +335,9 @@
 8c G	.	.
 4E-	4.cc	.
 8c G	.	.
+!!LO:LB:g=original
 =52	=52	=52
-4D	4.b	.
+4D	4.b/	.
 8B G	.	.
 4BB	4.g	.
 8B G D	.	.
@@ -354,11 +364,12 @@
 8c G E	.	.
 =57	=57	=57
 *	*^	*
-4C	4.f# d#	4.r	.
+4C	4.f# d#	4.ryy	.
 8c A F#	.	.	.
-4C	4b	4.d#	.
-8c A F#	8a	.	.
+4C	(4b	4.d#	.
+8c A F#	8a)	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =58	=58	=58
 4C	4.g e	.
 8c G E	.	.
@@ -385,9 +396,10 @@
 8BB	.	.
 8GG#J	.	.
 =63	=63	=63
-4EE	4.ee] b] g#]	.
+4EE	4.ee] b] g#X]	.
 8r	.	.
 4.r	4.ee	.
+!!LO:LB:g=original
 =64	=64	=64
 4E	4.aa cc# a	.
 8c# A G	.	.
@@ -397,14 +409,14 @@
 4C#	4.ff cc# a	<
 8c# A G	.	.
 4AA	4.ee cc# g	.
-8c# A G	.	.
+8c# A G	.	[
 =66	=66	=66
 4D	4.dd a f	<
 8d A F	.	.
 4A AA	4.ff dd a	.
-8d A F	.	.
+8d A F	.	[
 =67	=67	=67
-2.A- AA-	2.ccc ff# dd# cc	f
+2.A- AA-	2.ccc ff# dd# cc	f >]
 =68	=68	=68
 4G GG	4.gg ee cc	mf
 8c G E	.	.
@@ -415,16 +427,17 @@
 8B G F	.	.
 4D	4dd] b] f]	.
 8B G F	8g f	.
+!!LO:LB:g=original
 =70	=70	=70
 *>C1	*>C1	*>C1
-8CL	2.cc [e	.
+8CL	[2.cc [e	.
 8E	.	.
 8GJ	.	.
 8AL	.	.
 8G	.	.
 8EJ	.	.
 =71	=71	=71
-4C	4cc e]	.
+4C	4cc] e]	.
 8r	8r	.
 4.G GG	4.gg b g	.
 =72:|!	=72:|!	=72:|!
@@ -439,27 +452,28 @@
 *>D	*>D	*>D
 4C	4cc] e]	.
 8r	8r	.
-8C CC	8ee cc	.
+8C CC	8ccc ee cc	.
 8r	8r	.
 8r	8r	.
 =74	=74	=74
 4.c G E C	4e	.
 .	8d#	.
-4.A G E C	8eL	.
+4.A# G E C#	(8eL	.
 .	8g	.
-.	8eJ	.
+.	8eJ)	.
 =75	=75	=75
 4.B G D	4d	.
 .	8d	.
-4.B G D	8bL	.
+4.B G D	(8bL	.
 .	8g	.
-.	8eJ	.
+.	8eJ)	.
 =76	=76	=76
 4.c A F# D	4d	.
 .	8a	.
-4.c A F# D	8dL	.
+4.c A F# D	(8dL	.
 .	8e	.
-.	8f#J	.
+.	8f#J)	.
+!!LO:LB:g=original
 =77	=77	=77
 4GG	4g	.
 8B G D	8r	.
@@ -472,25 +486,25 @@
 8AAL	8f#L	mf
 8r	8e	.
 8cJ F# D	8dJ	.
-8DDL	8aL	.
+8DDL<	8aL>	.
 8r	8b	.
 8cJ F# D	8ccJ	.
 =79	=79	=79
-8GGL	8bL	.
+8GGL<	8bL	.
 8r	8r	.
 8BJ G D	8eeJ b g	.
-8DDL	4ee b g	.
+8DDL<	4ee b g	.
 8r	.	.
 8BJ G D	8ee	.
 =80	=80	=80
 8FF#L	8ddL	.
 8r	8ee	.
 8cJ A D	8ccJ	.
-8DDL	8bL	.
+8DDL<	8bL	.
 8r	8cc	.
 8cJ F# D	8aJ	.
 =81	=81	=81
-8GGL	8gL	.
+8GGL<	8gL<	.
 8r	8r	.
 8BJ G D	8eeJ b g	.
 4B G D	4ee b g	.
@@ -499,23 +513,24 @@
 8AAL	8f#L	.
 8r	8e	.
 8cJ F# D	8dJ	.
-8DDL	8aL	.
+8DDL<	8aL>	.
 8r	8b	.
 8cJ F# D	8ccJ	.
+!!LO:LB:g=original
 =83	=83	=83
-8GGL	8bL	.
+8GGL<	8bL	.
 8r	8r	.
 8BJ G D	8eeJ b g	.
 4B G D	4ee b g	.
 8G# GG#	8ee# dd b	.
 =84	=84	=84
 *	*^	*
-4A AA	8ff#L	4.dd a	.
+4A AA	(8ff#L	4.dd a	.
 .	8ee	.	.
-8d A F#	8ddJ	.	.
-4AA	8cc#L	4g	.
+8d A F#	8ddJ)	.	.
+4AA	(8cc#L	4g	.
 .	8dd	.	.
-8c# A	8eeJ	8g	.
+8c# A	8eeJ)	8g	.
 *	*v	*v	*
 =85	=85	=85
 4d A D	[4.dd [f#	.
@@ -527,30 +542,31 @@
 8AAL	8f#L	.
 8r	8e	.
 8cJ F# D	8dJ	.
-8DDL	8aL	.
+8DDL<	8aL	.
 8r	8b	.
 8cJ F# D	8ccJ	.
 =87	=87	=87
-8GGL	8bL	.
+8GGL<	8bL	.
 8r	8r	.
 8BJ G D	8eeJ b g	.
-8DDL	4ee b g	.
+8DDL<	4ee b g	.
 8r	.	.
 8BJ G D	8ee	.
 =88	=88	=88
 8FF#L	8ddL	.
 8r	8ee	.
 8cJ A D	8ccJ	.
-8DDL	8bL	.
+8DDL<	8bL	.
 8r	8cc	.
 8cJ F# D	8aJ	.
+!!LO:LB:g=original
 =89	=89	=89
-8GGL	8gL	.
+8GGL<	8gL<	.
 8r	8r	.
 8BJ G D	8eeJ b g	.
 4B G D	4ee b g	.
-8r	16ff#LL	.
-.	16ggJJ	.
+8r	(16ff#LL	.
+.	16ggJJ)	.
 =90	=90	=90
 4C	4.aa ee cc	.
 8c A E	.	.
@@ -582,10 +598,19 @@
 *>E2	*>E2	*>E2
 4B G	4g	.
 8r	8r	.
-8G GG	8gg b g	.
+8G^^ GG	8gg^^ b g	.
 8r	8r	.
 8r	8r	.
-==	==	==
+!LO:TX:b:i:t=Fine.	!	!
+==	==;	==
 *-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!URL-vhv: https://verovio.humdrum.org/?file=joplin/rosebud.krn
+!!!URL-pdf-original: https://github.com/craigsapp/joplin/blob/master/reference-edition/rosebud.pdf
+!!!PDT: 1905
+!!!PPR: John Stark & Son
 !!!ENC: Craig Stuart Sapp
-!!!END: 2005/03/29/
+!!!END: 2005/03/29
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2021/06/30
