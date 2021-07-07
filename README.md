@@ -1,15 +1,21 @@
 A Digital Edition of Scott Joplin's Music
 =========================================
 
-This repository contains a digital edition in the Humdrum file
-format of music composed by Scott Joplin.  Graphical versions of
-the scores can be viewed on [Verovio Humdrum
-Viewer](https://verovio.humdrum.org/?file=joplin).
+This repository contains a digital edition in the
+[Humdrum](https://www.humdrum.org) file format of music composed
+by [Scott Joplin](https://en.wikipedia.org/wiki/Scott_Joplin).
+Graphical versions of these scores can be viewed on [Verovio Humdrum
+Viewer](https://verovio.humdrum.org/?file=joplin) (VHV).
 
-PDF files of printed music used to encode the digital scores can
-be found in the [reference-edition
-directory](https://github.com/craigsapp/joplin/tree/master/reference-edition)
-in this repository.
+PDF files of scanned music used to encode the digital scores can
+be found in the
+[reference-edition](https://github.com/craigsapp/joplin/tree/master/reference-edition)
+directory in this repository.  When viewing the digital scores in
+VHV, press the `alt-p` (or `option-p`) keys to view the original
+scan that the digital encoding represents.  Differences between the
+encodings and the scans should be reported in the
+[issues](https://github.com/craigsapp/joplin/issues) section of the
+repository.
 
 
 Data processing tools and other resources
