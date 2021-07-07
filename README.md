@@ -1,31 +1,19 @@
-Digital edition of Scott Joplin Rags
-====================================
+A Digital Edition of Scott Joplin's Music
+=========================================
 
-This repository is a digital edition of piano rags by Scott Joplin in
-the Humdrum file format.  Tools for processing the encodings in this
-format on the command-line can be found online at
-https://github.com/humdrum-tools
+This repository contains a digital edition in the Humdrum file
+format of music composed by Scott Joplin.  Graphical versions of
+the scores can be viewed on [Verovio Humdrum
+Viewer](https://verovio.humdrum.org/&file=joplin).
 
-The encodings are located in the 'kern' directory.
-Scans of the source edition can be downloaded from 
-[kernScores](http://kern.humdrum.org) with this command:
-```bash
-   make reference
-```
-
-These digital scores can also be found as a submodule in the 
-[humdrum-data](https://github.com/humdrum-tools/humdrum-data) repository.
+PDF files of printed music used to encode the digital scores can
+be found in the [reference-edition
+directory](https://github.com/craigsapp/joplin/tree/master/reference-edition)
+in this repository.
 
 
 Data processing tools and other resources
 =========================================
-
-These digital scores may also be found on the kernScores website:
-*    http://kernscores.stanford.edu/browse?l=joplin
-
-with mirrors at:
-*    http://kern.humdrum.org/browse?l=joplin
-*    http://kern.ccarh.org/browse?l=joplin
 
 which includes dynamic conversions to other data formats.  
 
