@@ -4,7 +4,7 @@ A Digital Edition of Scott Joplin's Music
 This repository contains a digital edition in the Humdrum file
 format of music composed by Scott Joplin.  Graphical versions of
 the scores can be viewed on [Verovio Humdrum
-Viewer](https://verovio.humdrum.org/&file=joplin).
+Viewer](https://verovio.humdrum.org/?file=joplin).
 
 PDF files of printed music used to encode the digital scores can
 be found in the [reference-edition
