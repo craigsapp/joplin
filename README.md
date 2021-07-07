@@ -14,7 +14,7 @@ directory in this repository.  When viewing the digital scores in
 VHV, press the `alt-p` (or `option-p`) keys to view the original
 scan that the digital encoding represents.  Differences between the
 encodings and the scans should be reported in the
-[issues](https://github.com/craigsapp/joplin/issues) section of the
+[issues](https://github.com/craigsapp/joplin/issues) section of this
 repository.
 
 
